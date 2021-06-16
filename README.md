@@ -2,9 +2,9 @@
 
 # Título do Trabalho
 
-#### Alun(o/a): [Nome Sobrenome](https://github.com/link_do_github).
-#### Orientador(/a/es/as): [Nome Sobrenome](https://github.com/link_do_github).
-#### Co-orientador(/a/es/as): [Nome Sobrenome](https://github.com/link_do_github). <!-- caso não aplicável, remover esta linha -->
+#### Alun(o/a): [Luís Fernando V Gomes](https://github.com/lfvgomes).
+#### Orientador(/a/es/as): [Manoela Kohler](https://github.com/link_do_github).
+#### Co-orientador(/a/es/as): [Felipe Borges](https://github.com/link_do_github). <!-- caso não aplicável, remover esta linha -->
 
 ---
 
@@ -42,7 +42,7 @@ Donec molestie, ante quis tempus consequat, mauris ante fringilla elit, euismod 
 
 ---
 
-Matrícula: 123.456.789
+Matrícula: 192.110.190
 
 Pontifícia Universidade Católica do Rio de Janeiro
 
