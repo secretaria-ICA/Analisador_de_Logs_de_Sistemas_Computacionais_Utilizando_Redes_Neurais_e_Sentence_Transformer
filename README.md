@@ -3,8 +3,8 @@
 # Título do Trabalho
 
 #### Alun(o/a): [Luís Fernando V Gomes](https://github.com/lfvgomes).
-#### Orientador(/a/es/as): [Manoela Kohler](https://github.com/link_do_github).
-#### Co-orientador(/a/es/as): [Felipe Borges](https://github.com/link_do_github). <!-- caso não aplicável, remover esta linha -->
+#### Orientador(/a/es/as):[Felipe Borges](https://github.com/link_do_github)  e [Manoela Kohler](https://github.com/link_do_github).
+<!-- #### Co-orientador(/a/es/as): [Felipe Borges] (https://github.com/link_do_github). <! -- caso não aplicável, remover esta linha -->
 
 ---
 
