@@ -25,8 +25,12 @@ registros, que podem chegar em dezenas a cada segundo.
    O objetivo deste trabalho é gerar uma ferramenta que seja capaz de analisar estes registros em um tempo bastante curto e somente recomendar a inspeção
 humana imediata caso julgue relevante.
 
-  A partir de um arquivo de registros que foi manualmente rotulado, o programa usa uma rede neural treinada para inferir se determinado registro que
+  A partir de um arquivo de registros que foi manualmente rotulado [1] , o programa usa uma rede neural treinada para inferir se determinado registro que
  ocorrer no sistema merecerá ter a atenção dos administradores.
+ 
+ 
+ [1] Loghub (https://github.com/logpai/loghub)
+ 
  
 ---
 
