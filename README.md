@@ -1,6 +1,6 @@
 <!-- antes de enviar a versão final, solicitamos que todos os comentários, colocados para orientação ao aluno, sejam removidos do arquivo -->
 
-# Título do Trabalho
+# Pré-analisador de logs de sistemas computacionais utilizando redes neurais e Sentence Transformer
 
 #### Alun(o/a): [Luís Fernando V Gomes](https://github.com/lfvgomes).
 #### Orientadores:[Felipe Borges](https://github.com/link_do_github)  e [Manoela Kohler](https://github.com/link_do_github).
@@ -26,7 +26,7 @@ registros, que podem chegar em dezenas a cada segundo.
 humana imediata caso julgue relevante.
 
   A partir de um arquivo de registros que foi manualmente rotulado, o programa usa uma rede neural treinada para inferir se determinado registro que
- ocorrer no sistema merecerá ter a atenção dos administradores do sistema.
+ ocorrer no sistema merecerá ter a atenção dos administradores.
  
 ---
 
