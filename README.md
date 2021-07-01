@@ -26,7 +26,7 @@ registros, que podem chegar em dezenas a cada segundo.
 humana imediata caso julgue relevante.
 
   A partir de um arquivo de registros que foi manualmente rotulado, o programa usa uma rede neural treinada para inferir se determinado registro que
- ocorrer no sistema merece ter a atenção dos administradores do sistema.
+ ocorrer no sistema merecerá ter a atenção dos administradores do sistema.
  
 ---
 
