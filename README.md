@@ -3,7 +3,7 @@
 # Pré-analisador de logs de sistemas computacionais utilizando redes neurais e Sentence Transformer
 
 #### Alun(o/a): [Luís Fernando V Gomes](https://github.com/lfvgomes).
-#### Orientadores:[Felipe Borges](https://github.com/link_do_github)  e [Manoela Kohler](https://github.com/link_do_github).
+#### Orientadores:[Felipe Borges](https://github.com/FelipeBorgesC)  e [Manoela Kohler](https://github.com/manoelakohler).
 <!-- #### Co-orientador(/a/es/as): [Felipe Borges] (https://github.com/link_do_github). <! -- caso não aplicável, remover esta linha -->
 
 ---
