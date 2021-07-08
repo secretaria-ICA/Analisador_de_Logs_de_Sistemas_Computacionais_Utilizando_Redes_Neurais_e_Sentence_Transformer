@@ -23,11 +23,16 @@ vez, isto não deve ser motivo de intervenção. Por estes e outros motivos, é 
 registros, que podem chegar em dezenas a cada segundo.
 
    O objetivo deste trabalho é gerar uma ferramenta que seja capaz de analisar estes registros em um tempo bastante curto e somente recomendar a inspeção
-humana imediata caso julgue relevante.
+humana imediata caso julgue relevante. É composta por duas partes: a primeira pega um arquivo de logs rotulado e gera a rede neural treinada; a segunda usa 
+a rede treinada para analisar os logs.
 
   A partir de um arquivo de registros para o cluster Thunderbird que foi manualmente rotulado [1] , o programa usa uma rede neural treinada para inferir se determinado registro que ocorrer no sistema merecerá ter a atenção dos administradores.
+  
    Foram escolhidos 1000 registros sem anomalias e 1022 com anomalias, que, combinados, geraram o arquivo Thunderbird_1000.log. Este foi usado para treinamento
 e teste da rede neural.
+
+   Usando a rede treinada, um programa analisador varre o arquivo de logs e gera uma saída de acordo com a inferência da classificação da linha do arquivo
+   de logs. Se for relevante, o programa pode enviar a linha e um alerta através de email para o administrador do sistema.
  
  
  
