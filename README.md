@@ -1,6 +1,6 @@
 <!-- antes de enviar a versão final, solicitamos que todos os comentários, colocados para orientação ao aluno, sejam removidos do arquivo -->
 
-# Pré-analisador de logs de sistemas computacionais utilizando redes neurais e Sentence Transformer
+# Analisador de logs de sistemas computacionais utilizando redes neurais e Sentence Transformer
 
 #### Alun(o/a): [Luís Fernando V Gomes](https://github.com/lfvgomes).
 #### Orientadores:[Felipe Borges](https://github.com/FelipeBorgesC)  e [Manoela Kohler](https://github.com/manoelakohler).
