@@ -1,0 +1,1013 @@
+1 1131685687 2005.11.10 bn257 Nov 10 21:08:07 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685687 2005.11.10 bn257 Nov 10 21:08:07 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685688 2005.11.10 bn257 Nov 10 21:08:08 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685688 2005.11.10 bn257 Nov 10 21:08:08 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685688 2005.11.10 bn257 Nov 10 21:08:08 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685689 2005.11.10 bn257 Nov 10 21:08:09 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685691 2005.11.10 bn257 Nov 10 21:08:11 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685691 2005.11.10 bn257 Nov 10 21:08:11 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685692 2005.11.10 bn257 Nov 10 21:08:12 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685692 2005.11.10 bn257 Nov 10 21:08:12 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685693 2005.11.10 bn257 Nov 10 21:08:13 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685693 2005.11.10 bn257 Nov 10 21:08:13 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685708 2005.11.10 bn257 Nov 10 21:08:28 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685708 2005.11.10 bn257 Nov 10 21:08:28 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685709 2005.11.10 bn257 Nov 10 21:08:29 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685709 2005.11.10 bn257 Nov 10 21:08:29 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685709 2005.11.10 bn257 Nov 10 21:08:29 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685710 2005.11.10 bn257 Nov 10 21:08:30 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685714 2005.11.10 bn257 Nov 10 21:08:34 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685714 2005.11.10 bn257 Nov 10 21:08:34 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685715 2005.11.10 bn257 Nov 10 21:08:35 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685715 2005.11.10 bn257 Nov 10 21:08:35 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685716 2005.11.10 bn257 Nov 10 21:08:36 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685716 2005.11.10 bn257 Nov 10 21:08:36 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685732 2005.11.10 bn257 Nov 10 21:08:52 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685733 2005.11.10 bn257 Nov 10 21:08:53 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685733 2005.11.10 bn257 Nov 10 21:08:53 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685733 2005.11.10 bn257 Nov 10 21:08:53 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685734 2005.11.10 bn257 Nov 10 21:08:54 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685734 2005.11.10 bn257 Nov 10 21:08:54 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685748 2005.11.10 bn257 Nov 10 21:09:08 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685749 2005.11.10 bn257 Nov 10 21:09:09 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685749 2005.11.10 bn257 Nov 10 21:09:09 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685750 2005.11.10 bn257 Nov 10 21:09:10 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685750 2005.11.10 bn257 Nov 10 21:09:10 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685751 2005.11.10 bn257 Nov 10 21:09:11 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685766 2005.11.10 bn257 Nov 10 21:09:26 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685767 2005.11.10 bn257 Nov 10 21:09:27 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685767 2005.11.10 bn257 Nov 10 21:09:27 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685767 2005.11.10 bn257 Nov 10 21:09:27 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685799 2005.11.10 bn257 Nov 10 21:09:59 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685816 2005.11.10 bn257 Nov 10 21:10:16 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685816 2005.11.10 bn257 Nov 10 21:10:16 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685816 2005.11.10 bn257 Nov 10 21:10:16 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685817 2005.11.10 bn257 Nov 10 21:10:17 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685817 2005.11.10 bn257 Nov 10 21:10:17 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685849 2005.11.10 bn257 Nov 10 21:10:49 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685882 2005.11.10 bn257 Nov 10 21:11:22 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685882 2005.11.10 bn257 Nov 10 21:11:22 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685897 2005.11.10 bn257 Nov 10 21:11:37 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685898 2005.11.10 bn257 Nov 10 21:11:38 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685898 2005.11.10 bn257 Nov 10 21:11:38 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685899 2005.11.10 bn257 Nov 10 21:11:39 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685914 2005.11.10 bn257 Nov 10 21:11:54 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685948 2005.11.10 bn257 Nov 10 21:12:28 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685949 2005.11.10 bn257 Nov 10 21:12:29 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685963 2005.11.10 bn257 Nov 10 21:12:43 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685965 2005.11.10 bn257 Nov 10 21:12:45 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685980 2005.11.10 bn257 Nov 10 21:13:00 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685981 2005.11.10 bn257 Nov 10 21:13:01 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685981 2005.11.10 bn257 Nov 10 21:13:01 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685982 2005.11.10 bn257 Nov 10 21:13:02 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685982 2005.11.10 bn257 Nov 10 21:13:02 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685982 2005.11.10 bn257 Nov 10 21:13:02 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131685997 2005.11.10 bn257 Nov 10 21:13:17 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686012 2005.11.10 bn257 Nov 10 21:13:32 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686012 2005.11.10 bn257 Nov 10 21:13:32 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686013 2005.11.10 bn257 Nov 10 21:13:33 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686013 2005.11.10 bn257 Nov 10 21:13:33 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686014 2005.11.10 bn257 Nov 10 21:13:34 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686014 2005.11.10 bn257 Nov 10 21:13:34 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686047 2005.11.10 bn257 Nov 10 21:14:07 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686061 2005.11.10 bn257 Nov 10 21:14:21 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686076 2005.11.10 bn257 Nov 10 21:14:36 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686077 2005.11.10 bn257 Nov 10 21:14:37 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686077 2005.11.10 bn257 Nov 10 21:14:37 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686078 2005.11.10 bn257 Nov 10 21:14:38 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686078 2005.11.10 bn257 Nov 10 21:14:38 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686078 2005.11.10 bn257 Nov 10 21:14:38 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686092 2005.11.10 bn257 Nov 10 21:14:52 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686092 2005.11.10 bn257 Nov 10 21:14:52 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686093 2005.11.10 bn257 Nov 10 21:14:53 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686093 2005.11.10 bn257 Nov 10 21:14:53 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686094 2005.11.10 bn257 Nov 10 21:14:54 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686094 2005.11.10 bn257 Nov 10 21:14:54 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686108 2005.11.10 bn257 Nov 10 21:15:08 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686109 2005.11.10 bn257 Nov 10 21:15:09 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686109 2005.11.10 bn257 Nov 10 21:15:09 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686110 2005.11.10 bn257 Nov 10 21:15:10 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686110 2005.11.10 bn257 Nov 10 21:15:10 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686110 2005.11.10 bn257 Nov 10 21:15:10 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686124 2005.11.10 bn257 Nov 10 21:15:24 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686125 2005.11.10 bn257 Nov 10 21:15:25 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686125 2005.11.10 bn257 Nov 10 21:15:25 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686126 2005.11.10 bn257 Nov 10 21:15:26 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686126 2005.11.10 bn257 Nov 10 21:15:26 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686126 2005.11.10 bn257 Nov 10 21:15:26 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686140 2005.11.10 bn257 Nov 10 21:15:40 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686141 2005.11.10 bn257 Nov 10 21:15:41 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686141 2005.11.10 bn257 Nov 10 21:15:41 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686141 2005.11.10 bn257 Nov 10 21:15:41 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686142 2005.11.10 bn257 Nov 10 21:15:42 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686142 2005.11.10 bn257 Nov 10 21:15:42 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686156 2005.11.10 bn257 Nov 10 21:15:56 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686157 2005.11.10 bn257 Nov 10 21:15:57 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686157 2005.11.10 bn257 Nov 10 21:15:57 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686158 2005.11.10 bn257 Nov 10 21:15:58 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686158 2005.11.10 bn257 Nov 10 21:15:58 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686158 2005.11.10 bn257 Nov 10 21:15:58 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686173 2005.11.10 bn257 Nov 10 21:16:13 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686173 2005.11.10 bn257 Nov 10 21:16:13 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686173 2005.11.10 bn257 Nov 10 21:16:13 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686174 2005.11.10 bn257 Nov 10 21:16:14 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686174 2005.11.10 bn257 Nov 10 21:16:14 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686175 2005.11.10 bn257 Nov 10 21:16:15 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686188 2005.11.10 bn257 Nov 10 21:16:28 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686189 2005.11.10 bn257 Nov 10 21:16:29 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686189 2005.11.10 bn257 Nov 10 21:16:29 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686190 2005.11.10 bn257 Nov 10 21:16:30 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686190 2005.11.10 bn257 Nov 10 21:16:30 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686190 2005.11.10 bn257 Nov 10 21:16:30 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686205 2005.11.10 bn257 Nov 10 21:16:45 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686206 2005.11.10 bn257 Nov 10 21:16:46 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686206 2005.11.10 bn257 Nov 10 21:16:46 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686207 2005.11.10 bn257 Nov 10 21:16:47 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686207 2005.11.10 bn257 Nov 10 21:16:47 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686207 2005.11.10 bn257 Nov 10 21:16:47 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686221 2005.11.10 bn257 Nov 10 21:17:01 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686221 2005.11.10 bn257 Nov 10 21:17:01 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686222 2005.11.10 bn257 Nov 10 21:17:02 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686222 2005.11.10 bn257 Nov 10 21:17:02 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686223 2005.11.10 bn257 Nov 10 21:17:03 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686223 2005.11.10 bn257 Nov 10 21:17:03 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686237 2005.11.10 bn257 Nov 10 21:17:17 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686238 2005.11.10 bn257 Nov 10 21:17:18 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686238 2005.11.10 bn257 Nov 10 21:17:18 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686238 2005.11.10 bn257 Nov 10 21:17:18 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686239 2005.11.10 bn257 Nov 10 21:17:19 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686239 2005.11.10 bn257 Nov 10 21:17:19 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686253 2005.11.10 bn257 Nov 10 21:17:33 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686254 2005.11.10 bn257 Nov 10 21:17:34 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686254 2005.11.10 bn257 Nov 10 21:17:34 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686255 2005.11.10 bn257 Nov 10 21:17:35 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686255 2005.11.10 bn257 Nov 10 21:17:35 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686255 2005.11.10 bn257 Nov 10 21:17:35 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686269 2005.11.10 bn257 Nov 10 21:17:49 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686270 2005.11.10 bn257 Nov 10 21:17:50 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686270 2005.11.10 bn257 Nov 10 21:17:50 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686271 2005.11.10 bn257 Nov 10 21:17:51 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686271 2005.11.10 bn257 Nov 10 21:17:51 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686271 2005.11.10 bn257 Nov 10 21:17:51 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686285 2005.11.10 bn257 Nov 10 21:18:05 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686285 2005.11.10 bn257 Nov 10 21:18:05 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686286 2005.11.10 bn257 Nov 10 21:18:06 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686286 2005.11.10 bn257 Nov 10 21:18:06 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686287 2005.11.10 bn257 Nov 10 21:18:07 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686287 2005.11.10 bn257 Nov 10 21:18:07 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686301 2005.11.10 bn257 Nov 10 21:18:21 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686301 2005.11.10 bn257 Nov 10 21:18:21 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686302 2005.11.10 bn257 Nov 10 21:18:22 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686302 2005.11.10 bn257 Nov 10 21:18:22 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686303 2005.11.10 bn257 Nov 10 21:18:23 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686303 2005.11.10 bn257 Nov 10 21:18:23 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686317 2005.11.10 bn257 Nov 10 21:18:37 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686317 2005.11.10 bn257 Nov 10 21:18:37 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686318 2005.11.10 bn257 Nov 10 21:18:38 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686318 2005.11.10 bn257 Nov 10 21:18:38 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686319 2005.11.10 bn257 Nov 10 21:18:39 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686319 2005.11.10 bn257 Nov 10 21:18:39 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686333 2005.11.10 bn257 Nov 10 21:18:53 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686334 2005.11.10 bn257 Nov 10 21:18:54 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686334 2005.11.10 bn257 Nov 10 21:18:54 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686335 2005.11.10 bn257 Nov 10 21:18:55 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686335 2005.11.10 bn257 Nov 10 21:18:55 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686335 2005.11.10 bn257 Nov 10 21:18:55 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686349 2005.11.10 bn257 Nov 10 21:19:09 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686350 2005.11.10 bn257 Nov 10 21:19:10 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686350 2005.11.10 bn257 Nov 10 21:19:10 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686351 2005.11.10 bn257 Nov 10 21:19:11 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686351 2005.11.10 bn257 Nov 10 21:19:11 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686365 2005.11.10 bn257 Nov 10 21:19:25 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686366 2005.11.10 bn257 Nov 10 21:19:26 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686366 2005.11.10 bn257 Nov 10 21:19:26 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686367 2005.11.10 bn257 Nov 10 21:19:27 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686367 2005.11.10 bn257 Nov 10 21:19:27 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686381 2005.11.10 bn257 Nov 10 21:19:41 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686382 2005.11.10 bn257 Nov 10 21:19:42 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686382 2005.11.10 bn257 Nov 10 21:19:42 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686383 2005.11.10 bn257 Nov 10 21:19:43 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686383 2005.11.10 bn257 Nov 10 21:19:43 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686397 2005.11.10 bn257 Nov 10 21:19:57 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686398 2005.11.10 bn257 Nov 10 21:19:58 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686399 2005.11.10 bn257 Nov 10 21:19:59 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686413 2005.11.10 bn257 Nov 10 21:20:13 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686414 2005.11.10 bn257 Nov 10 21:20:14 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686414 2005.11.10 bn257 Nov 10 21:20:14 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686415 2005.11.10 bn257 Nov 10 21:20:15 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686415 2005.11.10 bn257 Nov 10 21:20:15 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686415 2005.11.10 bn257 Nov 10 21:20:15 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131686429 2005.11.10 bn257 Nov 10 21:20:29 bn257/bn257 kernel: [KERNEL_IB][tsIbTavorMadProcess][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/ib/tavor/provider/obj_host_amd64_custom1_rhel4/ts_ib_tavor/tavor_mad.c:152]InfiniHost0: EVAPI_process_local_mad failed, return code = -254 (Fatal error (Local Catastrophic Error))
+1 1131810726 2005.11.12 an312 Nov 12 07:52:06 an312/an312 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1131810726 2005.11.12 an312 Nov 12 07:52:06 an312/an312 kernel: EXT3-fs error (device sda5): ext3_journal_start_sb: Detected aborted journal
+1 1131810744 2005.11.12 an312 Nov 12 07:52:24 an312/an312 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1131810749 2005.11.12 an312 Nov 12 07:52:29 an312/an312 kernel: EXT3-fs error (device sda3) in ext3_dirty_inode: IO failure
+1 1131810749 2005.11.12 an312 Nov 12 07:52:29 an312/an312 kernel: EXT3-fs error (device sda3) in ext3_reserve_inode_write: IO failure
+1 1131810749 2005.11.12 an312 Nov 12 07:52:29 an312/an312 kernel: EXT3-fs error (device sda3): ext3_get_inode_loc: unable to read inode block - inode=490769, block=983108
+1 1131810750 2005.11.12 an312 Nov 12 07:52:30 an312/an312 kernel: EXT3-fs error (device sda3): ext3_journal_start_sb: Detected aborted journal
+1 1132079583 2005.11.15 an312 Nov 15 10:33:03 an312/an312 kernel: EXT3-fs error (device sda3): ext3_get_inode_loc: unable to read inode block - inode=537584, block=1081348
+1 1132378222 2005.11.18 dn41 Nov 18 21:30:22 dn41/dn41 kernel: EXT3-fs error (device sda3): ext3_get_inode_loc: <3>Aborting journal on device sda3.
+1 1132378222 2005.11.18 dn41 Nov 18 21:30:22 dn41/dn41 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1132378222 2005.11.18 dn41 Nov 18 21:30:22 dn41/dn41 kernel: EXT3-fs error (device sda5): ext3_journal_start_sb: Detected aborted journal
+1 1132378223 2005.11.18 dn41 Nov 18 21:30:23 dn41/dn41 kernel: EXT3-fs error (device sda3) in ext3_dirty_inode: IO failure
+1 1132378223 2005.11.18 dn41 Nov 18 21:30:23 dn41/dn41 kernel: EXT3-fs error (device sda3) in ext3_reserve_inode_write: IO failure
+1 1132378223 2005.11.18 dn41 Nov 18 21:30:23 dn41/dn41 kernel: EXT3-fs error (device sda3): ext3_journal_start_sb: Detected aborted journal
+1 1132424426 2005.11.19 dn41 Nov 19 10:20:26 dn41/dn41 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1132549203 2005.11.20 dn312 Nov 20 21:00:03 dn312/dn312 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1132549203 2005.11.20 dn312 Nov 20 21:00:03 dn312/dn312 kernel: EXT3-fs error (device sda5): ext3_journal_start_sb: Detected aborted journal
+1 1132549265 2005.11.20 dn312 Nov 20 21:01:05 dn312/dn312 kernel: EXT3-fs error (device sda3): ext3_journal_start_sb: Detected aborted journal
+1 1132597401 2005.11.21 dn312 Nov 21 10:23:21 dn312/dn312 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1132615357 2005.11.21 dn116 Nov 21 15:22:37 dn116/dn116 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1132615357 2005.11.21 dn116 Nov 21 15:22:37 dn116/dn116 kernel: EXT3-fs error (device sda5): ext3_journal_start_sb: Detected aborted journal
+1 1132615379 2005.11.21 dn116 Nov 21 15:22:59 dn116/dn116 kernel: EXT3-fs error (device sda3): ext3_get_inode_loc: unable to read inode block - inode=425371, block=852028
+1 1132615380 2005.11.21 dn116 Nov 21 15:23:00 dn116/dn116 kernel: EXT3-fs error (device sda3) in ext3_dirty_inode: IO failure
+1 1132615380 2005.11.21 dn116 Nov 21 15:23:00 dn116/dn116 kernel: EXT3-fs error (device sda3) in ext3_reserve_inode_write: IO failure
+1 1132615380 2005.11.21 dn116 Nov 21 15:23:00 dn116/dn116 kernel: EXT3-fs error (device sda3): ext3_journal_start_sb: Detected aborted journal
+1 1132678762 2005.11.22 an312 Nov 22 08:59:22 an312/an312 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1132679094 2005.11.22 an312 Nov 22 09:04:54 an312/an312 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1132679094 2005.11.22 an312 Nov 22 09:04:54 an312/an312 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1132817588 2005.11.23 bn725 Nov 23 23:33:08 bn725/bn725 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1132817588 2005.11.23 bn725 Nov 23 23:33:08 bn725/bn725 kernel: EXT3-fs error (device sda5): ext3_journal_start_sb: Detected aborted journal
+1 1132817649 2005.11.23 bn725 Nov 23 23:34:09 bn725/bn725 kernel: EXT3-fs error (device sda3): ext3_journal_start_sb: Detected aborted journal
+1 1132858564 2005.11.24 bn725 Nov 24 10:56:04 bn725/bn725 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1133536460 2005.12.02 an43 Dec 2 07:14:20 an43/an43 kernel: EXT3-fs error (device sda3): ext3_get_inode_loc: unable to read inode block - inode=474651, block=950345
+1 1133536460 2005.12.02 an43 Dec 2 07:14:20 an43/an43 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1133536460 2005.12.02 an43 Dec 2 07:14:20 an43/an43 kernel: EXT3-fs error (device sda5): ext3_journal_start_sb: Detected aborted journal
+1 1133536461 2005.12.02 an43 Dec 2 07:14:21 an43/an43 kernel: EXT3-fs error (device sda3) in ext3_dirty_inode: IO failure
+1 1133536461 2005.12.02 an43 Dec 2 07:14:21 an43/an43 kernel: EXT3-fs error (device sda3) in ext3_reserve_inode_write: IO failure
+1 1133536461 2005.12.02 an43 Dec 2 07:14:21 an43/an43 kernel: EXT3-fs error (device sda3): ext3_journal_start_sb: Detected aborted journal
+1 1133540838 2005.12.02 an43 Dec 2 08:27:18 an43/an43 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1133615999 2005.12.03 an455 Dec 3 05:19:59 an455/an455 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1133615999 2005.12.03 an455 Dec 3 05:19:59 an455/an455 kernel: EXT3-fs error (device sda5): ext3_journal_start_sb: Detected aborted journal
+1 1133616055 2005.12.03 an455 Dec 3 05:20:55 an455/an455 kernel: EXT3-fs error (device sda3): ext3_journal_start_sb: Detected aborted journal
+1 1133688032 2005.12.04 cn745 Dec 4 01:20:32 cn745/cn745 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1133688032 2005.12.04 cn745 Dec 4 01:20:32 cn745/cn745 kernel: EXT3-fs error (device sda5): ext3_journal_start_sb: Detected aborted journal
+1 1133688033 2005.12.04 cn745 Dec 4 01:20:33 cn745/cn745 kernel: EXT3-fs error (device sda3) in ext3_dirty_inode: IO failure
+1 1133688033 2005.12.04 cn745 Dec 4 01:20:33 cn745/cn745 kernel: EXT3-fs error (device sda3) in ext3_reserve_inode_write: IO failure
+1 1133688033 2005.12.04 cn745 Dec 4 01:20:33 cn745/cn745 kernel: EXT3-fs error (device sda3): ext3_get_inode_loc: unable to read inode block - inode=653796, block=1310793
+1 1133688094 2005.12.04 cn745 Dec 4 01:21:34 cn745/cn745 kernel: EXT3-fs error (device sda3): ext3_journal_start_sb: Detected aborted journal
+1 1133697722 2005.12.04 cn745 Dec 4 04:02:02 cn745/cn745 kernel: EXT3-fs error (device sda6): ext3_journal_start_sb: Detected aborted journal
+1 1133697729 2005.12.04 an455 Dec 4 04:02:09 an455/an455 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1133697732 2005.12.04 cn745 Dec 4 04:02:12 cn745/cn745 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1133718272 2005.12.04 cn745 Dec 4 09:44:32 cn745/cn745 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1133720310 2005.12.04 cn745 Dec 4 10:18:30 cn745/cn745 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1133720311 2005.12.04 cn745 Dec 4 10:18:31 cn745/cn745 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1133888532 2005.12.06 an455 Dec 6 09:02:12 an455/an455 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1133956809 2005.12.07 cn244 Dec 7 04:00:09 cn244/cn244 kernel: EXT3-fs error (device sda3): ext3_journal_start_sb: Detected aborted journal
+1 1134043313 2005.12.08 cn244 Dec 8 04:01:53 cn244/cn244 kernel:
+1 1134043313 2005.12.08 cn244 Dec 8 04:01:53 cn244/cn244 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134043313 2005.12.08 cn244 Dec 8 04:01:53 cn244/cn244 kernel: EXT3-fs error (device sda6): ext3_journal_start_sb: Detected aborted journal
+1 1134067389 2005.12.08 cn244 Dec 8 10:43:09 cn244/cn244 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134074249 2005.12.08 an43 Dec 8 12:37:29 an43/an43 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134075927 2005.12.08 cn244 Dec 8 13:05:27 cn244/cn244 kernel: EXT3-fs error (device sda3): ext3_remount: Abort forced by user
+1 1134075930 2005.12.08 cn244 Dec 8 13:05:30 cn244/cn244 kernel: EXT3-fs error (device sda5): ext3_remount: Abort forced by user
+1 1134075934 2005.12.08 cn244 Dec 8 13:05:34 cn244/cn244 kernel: EXT3-fs error (device sda6): ext3_remount: Abort forced by user
+1 1134076998 2005.12.08 an43 Dec 8 13:23:18 an43/an43 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134077044 2005.12.08 an43 Dec 8 13:24:04 an43/an43 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134077067 2005.12.08 an43 Dec 8 13:24:27 an43/an43 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134077321 2005.12.08 an43 Dec 8 13:28:41 an43/an43 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134088309 2005.12.08 an43 Dec 8 16:31:49 an43/an43 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134088402 2005.12.08 an43 Dec 8 16:33:22 an43/an43 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134088563 2005.12.08 an43 Dec 8 16:36:03 an43/an43 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134088587 2005.12.08 an43 Dec 8 16:36:27 an43/an43 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134088610 2005.12.08 an43 Dec 8 16:36:50 an43/an43 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134088924 2005.12.08 an455 Dec 8 16:42:04 an455/an455 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134088947 2005.12.08 an455 Dec 8 16:42:27 an455/an455 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134088970 2005.12.08 an455 Dec 8 16:42:50 an455/an455 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134089294 2005.12.08 an455 Dec 8 16:48:14 an455/an455 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134089350 2005.12.08 an43 Dec 8 16:49:10 an43/an43 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134092218 2005.12.08 an43 Dec 8 17:36:58 an43/an43 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134092671 2005.12.08 an455 Dec 8 17:44:31 an455/an455 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134092879 2005.12.08 an455 Dec 8 17:47:59 an455/an455 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134092902 2005.12.08 an455 Dec 8 17:48:22 an455/an455 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134095539 2005.12.08 an455 Dec 8 18:32:19 an455/an455 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134095596 2005.12.08 an43 Dec 8 18:33:16 an43/an43 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134144103 2005.12.09 an43 Dec 9 08:01:43 an43/an43 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134144126 2005.12.09 an43 Dec 9 08:02:06 an43/an43 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134145750 2005.12.09 cn244 Dec 9 08:29:10 cn244/cn244 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134174522 2005.12.09 an43 Dec 9 16:28:42 an43/an43 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134174545 2005.12.09 an43 Dec 9 16:29:05 an43/an43 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134174568 2005.12.09 an43 Dec 9 16:29:28 an43/an43 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134174671 2005.12.09 an455 Dec 9 16:31:11 an455/an455 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134174694 2005.12.09 an455 Dec 9 16:31:34 an455/an455 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134174764 2005.12.09 an455 Dec 9 16:32:44 an455/an455 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134174925 2005.12.09 an455 Dec 9 16:35:25 an455/an455 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134175064 2005.12.09 an455 Dec 9 16:37:44 an455/an455 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134175110 2005.12.09 an455 Dec 9 16:38:30 an455/an455 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134175134 2005.12.09 an455 Dec 9 16:38:54 an455/an455 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134175781 2005.12.09 an455 Dec 9 16:49:41 an455/an455 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134175841 2005.12.09 an43 Dec 9 16:50:41 an43/an43 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134183138 2005.12.09 cn351 Dec 9 18:52:18 cn351/cn351 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134183138 2005.12.09 cn351 Dec 9 18:52:18 cn351/cn351 kernel: EXT3-fs error (device sda5): ext3_journal_start_sb: Detected aborted journal
+1 1134184368 2005.12.09 cn351 Dec 9 19:12:48 cn351/cn351 kernel: EXT3-fs error (device sda3): ext3_journal_start_sb: Detected aborted journal
+1 1134216088 2005.12.10 cn351 Dec 10 04:01:28 cn351/cn351 kernel: EXT3-fs error (device sda6) in ext3_new_inode: IO failure
+1 1134216089 2005.12.10 cn351 Dec 10 04:01:29 cn351/cn351 kernel: EXT3-fs error (device sda6) in ext3_mkdir: IO failure
+1 1134216089 2005.12.10 cn351 Dec 10 04:01:29 cn351/cn351 kernel: EXT3-fs error (device sda6): ext3_journal_start_sb: Detected aborted journal
+1 1134216100 2005.12.10 cn351 Dec 10 04:01:40 cn351/cn351 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134283822 2005.12.10 cn351 Dec 10 22:50:22 cn351/cn351 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134296560 2005.12.11 an455 Dec 11 02:22:40 an455/an455 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134398756 2005.12.12 cn351 Dec 12 06:45:56 cn351/cn351 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134398756 2005.12.12 cn351 Dec 12 06:45:56 cn351/cn351 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134401186 2005.12.12 cn351 Dec 12 07:26:26 cn351/cn351 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134401187 2005.12.12 cn351 Dec 12 07:26:27 cn351/cn351 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134416910 2005.12.12 cn745 Dec 12 11:48:30 cn745/cn745 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134416910 2005.12.12 cn745 Dec 12 11:48:30 cn745/cn745 kernel: EXT3-fs error (device sda5): ext3_journal_start_sb: Detected aborted journal
+1 1134427821 2005.12.12 cn745 Dec 12 14:50:21 cn745/cn745 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134459734 2005.12.12 cn638 Dec 12 23:42:14 cn638/cn638 kernel: EXT3-fs error (device sda5) in ext3_dirty_inode: IO failure
+1 1134459734 2005.12.12 cn638 Dec 12 23:42:14 cn638/cn638 kernel: EXT3-fs error (device sda5) in ext3_reserve_inode_write: IO failure
+1 1134459734 2005.12.12 cn638 Dec 12 23:42:14 cn638/cn638 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134459734 2005.12.12 cn638 Dec 12 23:42:14 cn638/cn638 kernel: EXT3-fs error (device sda5): ext3_get_inode_loc: unable to read inode block - inode=1216812, block=2457602
+1 1134459734 2005.12.12 cn638 Dec 12 23:42:14 cn638/cn638 kernel: EXT3-fs error (device sda5): ext3_journal_start_sb: Detected aborted journal
+1 1134475248 2005.12.13 cn638 Dec 13 04:00:48 cn638/cn638 kernel: EXT3-fs error (device sda6): ext3_journal_start_sb: Detected aborted journal
+1 1134475256 2005.12.13 cn638 Dec 13 04:00:56 cn638/cn638 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134494634 2005.12.13 cn638 Dec 13 09:23:54 cn638/cn638 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134520830 2005.12.13 cn745 Dec 13 16:40:30 cn745/cn745 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134567747 2005.12.14 bn544 Dec 14 05:42:27 bn544/bn544 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134567747 2005.12.14 bn544 Dec 14 05:42:27 bn544/bn544 kernel: EXT3-fs error (device sda5): ext3_journal_start_sb: Detected aborted journal
+1 1134567773 2005.12.14 bn544 Dec 14 05:42:53 bn544/bn544 kernel: EXT3-fs error (device sda3) in ext3_dirty_inode: IO failure
+1 1134567773 2005.12.14 bn544 Dec 14 05:42:53 bn544/bn544 kernel: EXT3-fs error (device sda3) in ext3_reserve_inode_write: IO failure
+1 1134567773 2005.12.14 bn544 Dec 14 05:42:53 bn544/bn544 kernel: EXT3-fs error (device sda3): ext3_get_inode_loc: unable to read inode block - inode=849071, block=1704003
+1 1134567834 2005.12.14 bn544 Dec 14 05:43:54 bn544/bn544 kernel: EXT3-fs error (device sda3): ext3_journal_start_sb: Detected aborted journal
+1 1134568861 2005.12.14 bn544 Dec 14 06:01:01 bn544/bn544 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134573246 2005.12.14 cn745 Dec 14 07:14:06 cn745/cn745 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134573247 2005.12.14 cn745 Dec 14 07:14:07 cn745/cn745 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134577430 2005.12.14 bn544 Dec 14 08:23:50 bn544/bn544 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134583006 2005.12.14 cn638 Dec 14 09:56:46 cn638/cn638 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134583551 2005.12.14 cn638 Dec 14 10:05:51 cn638/cn638 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134583551 2005.12.14 cn638 Dec 14 10:05:51 cn638/cn638 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134607081 2005.12.14 bn544 Dec 14 16:38:01 bn544/bn544 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134661648 2005.12.15 an455 Dec 15 07:47:28 an455/an455 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134661671 2005.12.15 an455 Dec 15 07:47:51 an455/an455 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134662273 2005.12.15 an455 Dec 15 07:57:53 an455/an455 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134662296 2005.12.15 an455 Dec 15 07:58:16 an455/an455 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134662342 2005.12.15 an455 Dec 15 07:59:02 an455/an455 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134662458 2005.12.15 an455 Dec 15 08:00:58 an455/an455 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134662481 2005.12.15 an455 Dec 15 08:01:21 an455/an455 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134662573 2005.12.15 an455 Dec 15 08:02:53 an455/an455 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134662597 2005.12.15 an455 Dec 15 08:03:17 an455/an455 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134662669 2005.12.15 bn544 Dec 15 08:04:29 bn544/bn544 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134662692 2005.12.15 bn544 Dec 15 08:04:52 bn544/bn544 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134662715 2005.12.15 bn544 Dec 15 08:05:15 bn544/bn544 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134662785 2005.12.15 bn544 Dec 15 08:06:25 bn544/bn544 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134663872 2005.12.15 bn544 Dec 15 08:24:32 bn544/bn544 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134664358 2005.12.15 bn544 Dec 15 08:32:38 bn544/bn544 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134664427 2005.12.15 bn544 Dec 15 08:33:47 bn544/bn544 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134664612 2005.12.15 bn544 Dec 15 08:36:52 bn544/bn544 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134665098 2005.12.15 bn544 Dec 15 08:44:58 bn544/bn544 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134665121 2005.12.15 bn544 Dec 15 08:45:21 bn544/bn544 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134665190 2005.12.15 bn544 Dec 15 08:46:30 bn544/bn544 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134665260 2005.12.15 bn544 Dec 15 08:47:40 bn544/bn544 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134665329 2005.12.15 bn544 Dec 15 08:48:49 bn544/bn544 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134665375 2005.12.15 bn544 Dec 15 08:49:35 bn544/bn544 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134665491 2005.12.15 bn544 Dec 15 08:51:31 bn544/bn544 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134665537 2005.12.15 bn544 Dec 15 08:52:17 bn544/bn544 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134665560 2005.12.15 bn544 Dec 15 08:52:40 bn544/bn544 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134665676 2005.12.15 bn544 Dec 15 08:54:36 bn544/bn544 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134665835 2005.12.15 an455 Dec 15 08:57:15 an455/an455 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134665858 2005.12.15 an455 Dec 15 08:57:38 an455/an455 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134666182 2005.12.15 an455 Dec 15 09:03:02 an455/an455 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134680097 2005.12.15 an814 Dec 15 12:54:57 an814/an814 kernel: EXT3-fs error (device sda3) in ext3_dirty_inode: IO failure
+1 1134680097 2005.12.15 an814 Dec 15 12:54:57 an814/an814 kernel: EXT3-fs error (device sda3) in ext3_reserve_inode_write: IO failure
+1 1134680097 2005.12.15 an814 Dec 15 12:54:57 an814/an814 kernel: EXT3-fs error (device sda3): ext3_get_inode_loc: unable to read inode block - inode=963081, block=1933379
+1 1134680097 2005.12.15 an814 Dec 15 12:54:57 an814/an814 kernel: EXT3-fs error (device sda3): ext3_journal_start_sb: Detected aborted journal
+1 1134680097 2005.12.15 an814 Dec 15 12:54:57 an814/an814 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134680097 2005.12.15 an814 Dec 15 12:54:57 an814/an814 kernel: EXT3-fs error (device sda5): ext3_journal_start_sb: Detected aborted journal
+1 1134712459 2005.12.15 en197 Dec 15 21:54:19 en197/en197 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134712459 2005.12.15 en197 Dec 15 21:54:19 en197/en197 kernel: EXT3-fs error (device sda5): ext3_journal_start_sb: Detected aborted journal
+1 1134734522 2005.12.16 an814 Dec 16 04:02:02 an814/an814 kernel: EXT3-fs error (device sda6) in ext3_mkdir: IO failure
+1 1134734522 2005.12.16 an814 Dec 16 04:02:02 an814/an814 kernel: EXT3-fs error (device sda6) in ext3_new_inode: IO failure
+1 1134734522 2005.12.16 an814 Dec 16 04:02:02 an814/an814 kernel: EXT3-fs error (device sda6): ext3_journal_start_sb: Detected aborted journal
+1 1134734525 2005.12.16 an814 Dec 16 04:02:05 an814/an814 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134750833 2005.12.16 en197 Dec 16 08:33:53 en197/en197 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134752931 2005.12.16 en197 Dec 16 09:08:51 en197/en197 kernel: EXT3-fs error (device sda6): ext3_journal_start_sb: Detected aborted journal
+1 1134820921 2005.12.17 bn101 Dec 17 04:02:01 bn101/bn101 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1134820921 2005.12.17 bn101 Dec 17 04:02:01 bn101/bn101 kernel: EXT3-fs error (device sda6): read_inode_bitmap: Cannot read inode bitmap - block_group = 194, inode_bitmap = 6356993
+1 1135015585 2005.12.19 bn101 Dec 19 10:06:25 bn101/bn101 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1135121176 2005.12.20 an814 Dec 20 15:26:16 an814/an814 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1135121176 2005.12.20 an814 Dec 20 15:26:16 an814/an814 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1135121284 2005.12.20 an455 Dec 20 15:28:04 an455/an455 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1135121285 2005.12.20 an455 Dec 20 15:28:05 an455/an455 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1135265063 2005.12.22 bn544 Dec 22 07:24:23 bn544/bn544 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1135265086 2005.12.22 bn544 Dec 22 07:24:46 bn544/bn544 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1135266543 2005.12.22 bn544 Dec 22 07:49:03 bn544/bn544 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1135266659 2005.12.22 bn544 Dec 22 07:50:59 bn544/bn544 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1135266705 2005.12.22 bn544 Dec 22 07:51:45 bn544/bn544 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1135266729 2005.12.22 bn544 Dec 22 07:52:09 bn544/bn544 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1135266752 2005.12.22 bn544 Dec 22 07:52:32 bn544/bn544 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1135266775 2005.12.22 bn544 Dec 22 07:52:55 bn544/bn544 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1135266798 2005.12.22 bn544 Dec 22 07:53:18 bn544/bn544 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1135266844 2005.12.22 bn544 Dec 22 07:54:04 bn544/bn544 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1135267075 2005.12.22 bn544 Dec 22 07:57:55 bn544/bn544 kernel: EXT3-fs error (device sda5) in start_transaction: Journal has aborted
+1 1131685767 2005.11.10 bn257 Nov 10 21:09:27 bn257/bn257 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1131734646 2005.11.11 an664 Nov 11 10:44:06 an664/an664 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1131745239 2005.11.11 cn1023 Nov 11 13:40:39 cn1023/cn1023 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1131763980 2005.11.11 an713 Nov 11 18:53:00 an713/an713 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1131764118 2005.11.11 bn897 Nov 11 18:55:18 bn897/bn897 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1131799121 2005.11.12 en190 Nov 12 04:38:41 en190/en190 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1131850123 2005.11.12 cn572 Nov 12 18:48:43 cn572/cn572 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1131889465 2005.11.13 an933 Nov 13 05:44:25 an933/an933 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1131896778 2005.11.13 an416 Nov 13 07:46:18 an416/an416 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1131915682 2005.11.13 dn30 Nov 13 13:01:22 dn30/dn30 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1132063679 2005.11.15 dn30 Nov 15 06:07:59 dn30/dn30 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1132638542 2005.11.21 an895 Nov 21 21:49:02 an895/an895 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1132715701 2005.11.22 cn935 Nov 22 19:15:01 cn935/cn935 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1132729055 2005.11.22 bn410 Nov 22 22:57:35 bn410/bn410 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1132729098 2005.11.22 an895 Nov 22 22:58:18 an895/an895 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1133429766 2005.12.01 bn971 Dec 1 01:36:06 bn971/bn971 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1133547129 2005.12.02 an43 Dec 2 10:12:09 an43/an43 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1133552007 2005.12.02 dn818 Dec 2 11:33:27 dn818/dn818 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1133552681 2005.12.02 cn935 Dec 2 11:44:41 cn935/cn935 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1133568128 2005.12.02 an983 Dec 2 16:02:08 an983/an983 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1133568143 2005.12.02 an347 Dec 2 16:02:23 an347/an347 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1133583398 2005.12.02 cn994 Dec 2 20:16:38 cn994/cn994 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1133672281 2005.12.03 dn114 Dec 3 20:58:01 dn114/dn114 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1133674239 2005.12.03 bn112 Dec 3 21:30:39 bn112/bn112 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1133740602 2005.12.04 dn483 Dec 4 15:56:42 dn483/dn483 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1133910019 2005.12.06 bn243 Dec 6 15:00:19 bn243/bn243 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1133957024 2005.12.07 cn244 Dec 7 04:03:44 cn244/cn244 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1134095144 2005.12.08 an164 Dec 8 18:25:44 an164/an164 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1134095144 2005.12.08 an326 Dec 8 18:25:44 an326/an326 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1135009685 2005.12.19 an690 Dec 19 08:28:05 an690/an690 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1135041761 2005.12.19 dn609 Dec 19 17:22:41 dn609/dn609 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1135245537 2005.12.22 dn261 Dec 22 01:58:57 dn261/dn261 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1135314380 2005.12.22 en197 Dec 22 21:06:20 en197/en197 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1135501432 2005.12.25 dn825 Dec 25 01:03:52 dn825/dn825 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1135590291 2005.12.26 bn971 Dec 26 01:44:51 bn971/bn971 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1135630633 2005.12.26 dn526 Dec 26 12:57:13 dn526/dn526 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1136122888 2006.01.01 dn427 Jan 1 05:41:28 dn427/dn427 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1136136795 2006.01.01 cn522 Jan 1 09:33:15 cn522/cn522 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1136153773 2006.01.01 cn151 Jan 1 14:16:13 cn151/cn151 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1136317256 2006.01.03 cn25 Jan 3 11:40:56 cn25/cn25 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1136317270 2006.01.03 cn44 Jan 3 11:41:10 cn44/cn44 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1136376305 2006.01.04 an679 Jan 4 04:05:05 an679/an679 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1136386524 2006.01.04 an679 Jan 4 06:55:24 an679/an679 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1136395772 2006.01.04 an950 Jan 4 09:29:32 an950/an950 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1136422986 2006.01.04 an679 Jan 4 17:03:06 an679/an679 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1136463021 2006.01.05 bn955 Jan 5 04:10:21 bn955/bn955 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1136476445 2006.01.05 dn139 Jan 5 07:54:05 dn139/dn139 kernel:
+1 1136478355 2006.01.05 dn30 Jan 5 08:25:55 dn30/dn30 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1136491154 2006.01.05 an690 Jan 5 11:59:14 an690/an690 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1136492724 2006.01.05 an690 Jan 5 12:25:24 an690/an690 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1136493826 2006.01.05 bn410 Jan 5 12:43:46 bn410/bn410 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1136580034 2006.01.06 bn410 Jan 6 12:40:34 bn410/bn410 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1136625748 2006.01.07 an191 Jan 7 01:22:28 an191/an191 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1136832509 2006.01.09 an107 Jan 9 10:48:29 an107/an107 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1136853597 2006.01.09 an583 Jan 9 16:39:57 an583/an583 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006034 2006.01.11 en29 Jan 11 11:00:34 en29/en29 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006034 2006.01.11 en7 Jan 11 11:00:34 en7/en7 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006035 2006.01.11 en22 Jan 11 11:00:35 en22/en22 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006035 2006.01.11 en34 Jan 11 11:00:35 en34/en34 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006036 2006.01.11 en19 Jan 11 11:00:36 en19/en19 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006036 2006.01.11 en35 Jan 11 11:00:36 en35/en35 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006036 2006.01.11 en38 Jan 11 11:00:36 en38/en38 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006037 2006.01.11 en41 Jan 11 11:00:37 en41/en41 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006047 2006.01.11 en83 Jan 11 11:00:47 en83/en83 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006056 2006.01.11 en8 Jan 11 11:00:56 en8/en8 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006057 2006.01.11 en18 Jan 11 11:00:57 en18/en18 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006057 2006.01.11 en25 Jan 11 11:00:57 en25/en25 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006057 2006.01.11 en31 Jan 11 11:00:57 en31/en31 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006064 2006.01.11 en137 Jan 11 11:01:04 en137/en137 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006064 2006.01.11 en84 Jan 11 11:01:04 en84/en84 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006065 2006.01.11 en111 Jan 11 11:01:05 en111/en111 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006065 2006.01.11 en120 Jan 11 11:01:05 en120/en120 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006065 2006.01.11 en165 Jan 11 11:01:05 en165/en165 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006066 2006.01.11 en144 Jan 11 11:01:06 en144/en144 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006066 2006.01.11 en170 Jan 11 11:01:06 en170/en170 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006067 2006.01.11 en95 Jan 11 11:01:07 en95/en95 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006068 2006.01.11 en110 Jan 11 11:01:08 en110/en110 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006068 2006.01.11 en112 Jan 11 11:01:08 en112/en112 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006068 2006.01.11 en149 Jan 11 11:01:08 en149/en149 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006068 2006.01.11 en63 Jan 11 11:01:08 en63/en63 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006069 2006.01.11 en114 Jan 11 11:01:09 en114/en114 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006069 2006.01.11 en182 Jan 11 11:01:09 en182/en182 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006070 2006.01.11 en192 Jan 11 11:01:10 en192/en192 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006070 2006.01.11 en78 Jan 11 11:01:10 en78/en78 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006071 2006.01.11 en107 Jan 11 11:01:11 en107/en107 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006071 2006.01.11 en109 Jan 11 11:01:11 en109/en109 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006071 2006.01.11 en122 Jan 11 11:01:11 en122/en122 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006071 2006.01.11 en123 Jan 11 11:01:11 en123/en123 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006071 2006.01.11 en125 Jan 11 11:01:11 en125/en125 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006071 2006.01.11 en172 Jan 11 11:01:11 en172/en172 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006071 2006.01.11 en197 Jan 11 11:01:11 en197/en197 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006071 2006.01.11 en52 Jan 11 11:01:11 en52/en52 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006071 2006.01.11 en60 Jan 11 11:01:11 en60/en60 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006071 2006.01.11 en61 Jan 11 11:01:11 en61/en61 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006071 2006.01.11 en73 Jan 11 11:01:11 en73/en73 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006072 2006.01.11 en100 Jan 11 11:01:12 en100/en100 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006072 2006.01.11 en115 Jan 11 11:01:12 en115/en115 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006072 2006.01.11 en141 Jan 11 11:01:12 en141/en141 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006072 2006.01.11 en167 Jan 11 11:01:12 en167/en167 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006073 2006.01.11 en116 Jan 11 11:01:13 en116/en116 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006073 2006.01.11 en164 Jan 11 11:01:13 en164/en164 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006073 2006.01.11 en59 Jan 11 11:01:13 en59/en59 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006073 2006.01.11 en89 Jan 11 11:01:13 en89/en89 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006074 2006.01.11 en106 Jan 11 11:01:14 en106/en106 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006074 2006.01.11 en44 Jan 11 11:01:14 en44/en44 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006074 2006.01.11 en46 Jan 11 11:01:14 en46/en46 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006074 2006.01.11 en82 Jan 11 11:01:14 en82/en82 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006074 2006.01.11 en94 Jan 11 11:01:14 en94/en94 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006074 2006.01.11 en98 Jan 11 11:01:14 en98/en98 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006075 2006.01.11 en189 Jan 11 11:01:15 en189/en189 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006075 2006.01.11 en190 Jan 11 11:01:15 en190/en190 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006075 2006.01.11 en193 Jan 11 11:01:15 en193/en193 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006075 2006.01.11 en194 Jan 11 11:01:15 en194/en194 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006075 2006.01.11 en195 Jan 11 11:01:15 en195/en195 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006075 2006.01.11 en30 Jan 11 11:01:15 en30/en30 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006075 2006.01.11 en92 Jan 11 11:01:15 en92/en92 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006076 2006.01.11 en108 Jan 11 11:01:16 en108/en108 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006077 2006.01.11 en200 Jan 11 11:01:17 en200/en200 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006077 2006.01.11 en218 Jan 11 11:01:17 en218/en218 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006078 2006.01.11 en212 Jan 11 11:01:18 en212/en212 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006081 2006.01.11 en183 Jan 11 11:01:21 en183/en183 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006081 2006.01.11 en184 Jan 11 11:01:21 en184/en184 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006081 2006.01.11 en81 Jan 11 11:01:21 en81/en81 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006084 2006.01.11 en26 Jan 11 11:01:24 en26/en26 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006085 2006.01.11 en36 Jan 11 11:01:25 en36/en36 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006086 2006.01.11 en17 Jan 11 11:01:26 en17/en17 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006087 2006.01.11 en42 Jan 11 11:01:27 en42/en42 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006088 2006.01.11 en33 Jan 11 11:01:28 en33/en33 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006088 2006.01.11 en47 Jan 11 11:01:28 en47/en47 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006088 2006.01.11 en5 Jan 11 11:01:28 en5/en5 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006089 2006.01.11 en2 Jan 11 11:01:29 en2/en2 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006089 2006.01.11 en45 Jan 11 11:01:29 en45/en45 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006089 2006.01.11 en49 Jan 11 11:01:29 en49/en49 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006089 2006.01.11 en50 Jan 11 11:01:29 en50/en50 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006089 2006.01.11 en57 Jan 11 11:01:29 en57/en57 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006091 2006.01.11 en6 Jan 11 11:01:31 en6/en6 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006091 2006.01.11 en66 Jan 11 11:01:31 en66/en66 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006092 2006.01.11 en241 Jan 11 11:01:32 en241/en241 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006092 2006.01.11 en273 Jan 11 11:01:32 en273/en273 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006092 2006.01.11 en64 Jan 11 11:01:32 en64/en64 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006092 2006.01.11 en65 Jan 11 11:01:32 en65/en65 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006093 2006.01.11 en51 Jan 11 11:01:33 en51/en51 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006094 2006.01.11 en157 Jan 11 11:01:34 en157/en157 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006094 2006.01.11 en213 Jan 11 11:01:34 en213/en213 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006094 2006.01.11 en222 Jan 11 11:01:34 en222/en222 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006094 2006.01.11 en224 Jan 11 11:01:34 en224/en224 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006095 2006.01.11 en72 Jan 11 11:01:35 en72/en72 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006095 2006.01.11 en74 Jan 11 11:01:35 en74/en74 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006095 2006.01.11 en79 Jan 11 11:01:35 en79/en79 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006096 2006.01.11 en129 Jan 11 11:01:36 en129/en129 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006096 2006.01.11 en256 Jan 11 11:01:36 en256/en256 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006098 2006.01.11 en91 Jan 11 11:01:38 en91/en91 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006099 2006.01.11 en88 Jan 11 11:01:39 en88/en88 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006101 2006.01.11 en103 Jan 11 11:01:41 en103/en103 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006101 2006.01.11 en99 Jan 11 11:01:41 en99/en99 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006105 2006.01.11 en124 Jan 11 11:01:45 en124/en124 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006105 2006.01.11 en14 Jan 11 11:01:45 en14/en14 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006106 2006.01.11 en130 Jan 11 11:01:46 en130/en130 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006106 2006.01.11 en143 Jan 11 11:01:46 en143/en143 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006107 2006.01.11 en126 Jan 11 11:01:47 en126/en126 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006107 2006.01.11 en131 Jan 11 11:01:47 en131/en131 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006107 2006.01.11 en132 Jan 11 11:01:47 en132/en132 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006107 2006.01.11 en133 Jan 11 11:01:47 en133/en133 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006107 2006.01.11 en136 Jan 11 11:01:47 en136/en136 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006108 2006.01.11 en135 Jan 11 11:01:48 en135/en135 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006108 2006.01.11 en139 Jan 11 11:01:48 en139/en139 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006109 2006.01.11 en138 Jan 11 11:01:49 en138/en138 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006109 2006.01.11 en146 Jan 11 11:01:49 en146/en146 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006109 2006.01.11 en37 Jan 11 11:01:49 en37/en37 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006110 2006.01.11 en113 Jan 11 11:01:50 en113/en113 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006110 2006.01.11 en145 Jan 11 11:01:50 en145/en145 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006111 2006.01.11 en121 Jan 11 11:01:51 en121/en121 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006112 2006.01.11 en156 Jan 11 11:01:52 en156/en156 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006113 2006.01.11 en119 Jan 11 11:01:53 en119/en119 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006114 2006.01.11 en160 Jan 11 11:01:54 en160/en160 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006114 2006.01.11 en166 Jan 11 11:01:54 en166/en166 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006114 2006.01.11 en169 Jan 11 11:01:54 en169/en169 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006114 2006.01.11 en179 Jan 11 11:01:54 en179/en179 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006114 2006.01.11 en207 Jan 11 11:01:54 en207/en207 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006114 2006.01.11 en270 Jan 11 11:01:54 en270/en270 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006114 2006.01.11 en320 Jan 11 11:01:54 en320/en320 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006114 2006.01.11 en332 Jan 11 11:01:54 en332/en332 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006114 2006.01.11 en39 Jan 11 11:01:54 en39/en39 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006114 2006.01.11 en53 Jan 11 11:01:54 en53/en53 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006115 2006.01.11 en161 Jan 11 11:01:55 en161/en161 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006115 2006.01.11 en168 Jan 11 11:01:55 en168/en168 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006115 2006.01.11 en171 Jan 11 11:01:55 en171/en171 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006115 2006.01.11 en336 Jan 11 11:01:55 en336/en336 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006117 2006.01.11 en105 Jan 11 11:01:57 en105/en105 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006117 2006.01.11 en174 Jan 11 11:01:57 en174/en174 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006117 2006.01.11 en176 Jan 11 11:01:57 en176/en176 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006118 2006.01.11 en185 Jan 11 11:01:58 en185/en185 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006118 2006.01.11 en301 Jan 11 11:01:58 en301/en301 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006119 2006.01.11 en142 Jan 11 11:01:59 en142/en142 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006119 2006.01.11 en69 Jan 11 11:01:59 en69/en69 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006120 2006.01.11 en152 Jan 11 11:02:00 en152/en152 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006120 2006.01.11 en296 Jan 11 11:02:00 en296/en296 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006120 2006.01.11 en308 Jan 11 11:02:00 en308/en308 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006120 2006.01.11 en317 Jan 11 11:02:00 en317/en317 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1137006121 2006.01.11 en148 Jan 11 11:02:01 en148/en148 kernel: Losing some ticks... checking if CPU frequency changed.
+1 1134750878 2005.12.16 en197 Dec 16 08:34:38 en197/en197 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bddee480)
+1 1134750895 2005.12.16 en197 Dec 16 08:34:55 en197/en197 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bddee480)
+1 1134750917 2005.12.16 en197 Dec 16 08:35:17 en197/en197 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bddee480)
+1 1134750941 2005.12.16 en197 Dec 16 08:35:41 en197/en197 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bddee480)
+1 1135647778 2005.12.26 an186 Dec 26 17:42:58 an186/an186 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bfe44680)
+1 1135647794 2005.12.26 an186 Dec 26 17:43:14 an186/an186 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bfe44680)
+1 1135647819 2005.12.26 an186 Dec 26 17:43:39 an186/an186 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bfe44680)
+1 1135647846 2005.12.26 an186 Dec 26 17:44:06 an186/an186 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bfe44680)
+1 1135647876 2005.12.26 an186 Dec 26 17:44:36 an186/an186 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bfe44680)
+1 1136302175 2006.01.03 an679 Jan 3 07:29:35 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bf0b2180)
+1 1136310306 2006.01.03 an679 Jan 3 09:45:06 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bfe70a80)
+1 1136310306 2006.01.03 an679 Jan 3 09:45:06 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bfe70a80)
+1 1136310308 2006.01.03 an679 Jan 3 09:45:08 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bddac700)
+1 1136327598 2006.01.03 an679 Jan 3 14:33:18 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bede7380)
+1 1136327598 2006.01.03 an679 Jan 3 14:33:18 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bedf3180)
+1 1136327598 2006.01.03 an679 Jan 3 14:33:18 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bedf3580)
+1 1136327599 2006.01.03 an679 Jan 3 14:33:19 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bede7380)
+1 1136327599 2006.01.03 an679 Jan 3 14:33:19 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bedf3380)
+1 1136376303 2006.01.04 an679 Jan 4 04:05:03 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101ab61f080)
+1 1136376303 2006.01.04 an679 Jan 4 04:05:03 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101ab61f280)
+1 1136376303 2006.01.04 an679 Jan 4 04:05:03 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101abbd0500)
+1 1136376303 2006.01.04 an679 Jan 4 04:05:03 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101abbd0b00)
+1 1136376303 2006.01.04 an679 Jan 4 04:05:03 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101abbd0d00)
+1 1136376304 2006.01.04 an679 Jan 4 04:05:04 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101abbd0100)
+1 1136376304 2006.01.04 an679 Jan 4 04:05:04 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101abbd0300)
+1 1136376304 2006.01.04 an679 Jan 4 04:05:04 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101abbd0700)
+1 1136376304 2006.01.04 an679 Jan 4 04:05:04 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101abbd0900)
+1 1136376304 2006.01.04 an679 Jan 4 04:05:04 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bfc73080)
+1 1136376305 2006.01.04 an679 Jan 4 04:05:05 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101abbd0500)
+1 1136376312 2006.01.04 an950 Jan 4 04:05:12 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101a892d500)
+1 1136376312 2006.01.04 an950 Jan 4 04:05:12 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101aa4b2080)
+1 1136376313 2006.01.04 an950 Jan 4 04:05:13 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101a892d300)
+1 1136376313 2006.01.04 an950 Jan 4 04:05:13 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101aa4b2280)
+1 1136376313 2006.01.04 an950 Jan 4 04:05:13 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101aa4b2480)
+1 1136376313 2006.01.04 an950 Jan 4 04:05:13 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101aa4b2680)
+1 1136376313 2006.01.04 an950 Jan 4 04:05:13 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101aa4b2880)
+1 1136376313 2006.01.04 an950 Jan 4 04:05:13 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101aa4b2a80)
+1 1136376314 2006.01.04 an950 Jan 4 04:05:14 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101a892d100)
+1 1136376314 2006.01.04 an950 Jan 4 04:05:14 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101a892d700)
+1 1136376314 2006.01.04 an950 Jan 4 04:05:14 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101a892d900)
+1 1136376314 2006.01.04 an950 Jan 4 04:05:14 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101a892db00)
+1 1136376314 2006.01.04 an950 Jan 4 04:05:14 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101a892dd00)
+1 1136376314 2006.01.04 an950 Jan 4 04:05:14 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101aa4b2c80)
+1 1136376315 2006.01.04 an950 Jan 4 04:05:15 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bfef4080)
+1 1136376315 2006.01.04 an950 Jan 4 04:05:15 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bfef4280)
+1 1136376315 2006.01.04 an950 Jan 4 04:05:15 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bfef4480)
+1 1136376315 2006.01.04 an950 Jan 4 04:05:15 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bfef4680)
+1 1136376315 2006.01.04 an950 Jan 4 04:05:15 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bfef4880)
+1 1136376315 2006.01.04 an950 Jan 4 04:05:15 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bfef4a80)
+1 1136376316 2006.01.04 an950 Jan 4 04:05:16 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101abb0e180)
+1 1136376316 2006.01.04 an950 Jan 4 04:05:16 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101abb0e380)
+1 1136376316 2006.01.04 an950 Jan 4 04:05:16 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101abb0e580)
+1 1136376316 2006.01.04 an950 Jan 4 04:05:16 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101abb0e780)
+1 1136376316 2006.01.04 an950 Jan 4 04:05:16 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101abb0e980)
+1 1136376316 2006.01.04 an950 Jan 4 04:05:16 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101abb0eb80)
+1 1136376316 2006.01.04 an950 Jan 4 04:05:16 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101abb0ed80)
+1 1136376317 2006.01.04 an950 Jan 4 04:05:17 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101aa4d5480)
+1 1136376317 2006.01.04 an950 Jan 4 04:05:17 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101aa4d5680)
+1 1136376317 2006.01.04 an950 Jan 4 04:05:17 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101aa4d5880)
+1 1136376317 2006.01.04 an950 Jan 4 04:05:17 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101aa4d5a80)
+1 1136376317 2006.01.04 an950 Jan 4 04:05:17 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101aa4d5c80)
+1 1136376318 2006.01.04 an950 Jan 4 04:05:18 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101aa057700)
+1 1136376318 2006.01.04 an950 Jan 4 04:05:18 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101aa057900)
+1 1136376318 2006.01.04 an950 Jan 4 04:05:18 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101aa057b00)
+1 1136376318 2006.01.04 an950 Jan 4 04:05:18 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101aa057d00)
+1 1136376318 2006.01.04 an950 Jan 4 04:05:18 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101aa4d5080)
+1 1136376318 2006.01.04 an950 Jan 4 04:05:18 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101aa4d5280)
+1 1136376319 2006.01.04 an950 Jan 4 04:05:19 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101aa057100)
+1 1136376319 2006.01.04 an950 Jan 4 04:05:19 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101aa057300)
+1 1136376319 2006.01.04 an950 Jan 4 04:05:19 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101aa057500)
+1 1136376319 2006.01.04 an950 Jan 4 04:05:19 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101ab500b80)
+1 1136376319 2006.01.04 an950 Jan 4 04:05:19 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101ab500d80)
+1 1136376320 2006.01.04 an950 Jan 4 04:05:20 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101a892d500)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=00000100bff29080)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=00000100bff29480)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=00000100bff29680)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101779a1100)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=0000010179b1ec80)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=000001018db4c180)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=000001018db4c780)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=000001018db4cd80)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=000001019536bb80)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=000001019536d480)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=000001019536da80)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=000001019536dc80)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=0000010195373180)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=0000010195373380)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=0000010195373580)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=0000010195373780)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=0000010195373980)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=0000010195373d80)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=0000010195377500)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=0000010195377700)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=0000010195377d00)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=000001019fc1b700)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=000001019fc1b900)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=000001019fc1bb00)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=000001019fc1bd00)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101a0140280)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101a0140680)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101a0140c80)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101a2c70100)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101a2c70300)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101a2c70500)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101a2c70700)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101a2c70900)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101a2c72080)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101a2c72280)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101a9918100)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101a9d70080)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101a9d70480)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101a9d76080)
+1 1136376684 2006.01.04 an925 Jan 4 04:11:24 an925/an925 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101a9d7e100)
+1 1136386519 2006.01.04 an679 Jan 4 06:55:19 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101b892f500)
+1 1136386519 2006.01.04 an679 Jan 4 06:55:19 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd60f380)
+1 1136386519 2006.01.04 an679 Jan 4 06:55:19 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd61a280)
+1 1136386519 2006.01.04 an679 Jan 4 06:55:19 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd61a480)
+1 1136386519 2006.01.04 an679 Jan 4 06:55:19 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd61a680)
+1 1136386519 2006.01.04 an679 Jan 4 06:55:19 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd61a880)
+1 1136386519 2006.01.04 an679 Jan 4 06:55:19 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd61aa80)
+1 1136386520 2006.01.04 an679 Jan 4 06:55:20 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101b892fd00)
+1 1136386520 2006.01.04 an679 Jan 4 06:55:20 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd60f180)
+1 1136386520 2006.01.04 an679 Jan 4 06:55:20 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd60f980)
+1 1136386521 2006.01.04 an679 Jan 4 06:55:21 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101b892f100)
+1 1136386521 2006.01.04 an679 Jan 4 06:55:21 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101b892f300)
+1 1136386521 2006.01.04 an679 Jan 4 06:55:21 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101b892f900)
+1 1136386522 2006.01.04 an679 Jan 4 06:55:22 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101b892f700)
+1 1136386522 2006.01.04 an679 Jan 4 06:55:22 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101b892fb00)
+1 1136386523 2006.01.04 an679 Jan 4 06:55:23 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd61ac80)
+1 1136386523 2006.01.04 an679 Jan 4 06:55:23 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bfea3080)
+1 1136386523 2006.01.04 an679 Jan 4 06:55:23 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bfea3280)
+1 1136386523 2006.01.04 an679 Jan 4 06:55:23 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bfea3480)
+1 1136386523 2006.01.04 an679 Jan 4 06:55:23 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bfea3680)
+1 1136386523 2006.01.04 an679 Jan 4 06:55:23 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bfea3880)
+1 1136386523 2006.01.04 an679 Jan 4 06:55:23 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bfea3a80)
+1 1136386524 2006.01.04 an679 Jan 4 06:55:24 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd609100)
+1 1136386524 2006.01.04 an679 Jan 4 06:55:24 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd609300)
+1 1136386524 2006.01.04 an679 Jan 4 06:55:24 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd609500)
+1 1136386524 2006.01.04 an679 Jan 4 06:55:24 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd609700)
+1 1136386524 2006.01.04 an679 Jan 4 06:55:24 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd609900)
+1 1136386524 2006.01.04 an679 Jan 4 06:55:24 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd609b00)
+1 1136386524 2006.01.04 an679 Jan 4 06:55:24 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd609d00)
+1 1136386524 2006.01.04 an679 Jan 4 06:55:24 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd612080)
+1 1136386524 2006.01.04 an679 Jan 4 06:55:24 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd612a80)
+1 1136386524 2006.01.04 an679 Jan 4 06:55:24 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd616300)
+1 1136386524 2006.01.04 an679 Jan 4 06:55:24 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd61a080)
+1 1136386525 2006.01.04 an679 Jan 4 06:55:25 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd60f580)
+1 1136386525 2006.01.04 an679 Jan 4 06:55:25 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd60f780)
+1 1136386525 2006.01.04 an679 Jan 4 06:55:25 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd616100)
+1 1136386525 2006.01.04 an679 Jan 4 06:55:25 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd616500)
+1 1136386525 2006.01.04 an679 Jan 4 06:55:25 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd616700)
+1 1136386525 2006.01.04 an679 Jan 4 06:55:25 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd616900)
+1 1136386525 2006.01.04 an679 Jan 4 06:55:25 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd616b00)
+1 1136386525 2006.01.04 an679 Jan 4 06:55:25 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd616d00)
+1 1136386526 2006.01.04 an679 Jan 4 06:55:26 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd60fb80)
+1 1136386526 2006.01.04 an679 Jan 4 06:55:26 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd60fd80)
+1 1136386526 2006.01.04 an679 Jan 4 06:55:26 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd612480)
+1 1136386526 2006.01.04 an679 Jan 4 06:55:26 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd612c80)
+1 1136386527 2006.01.04 an679 Jan 4 06:55:27 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101ba0ac100)
+1 1136386527 2006.01.04 an679 Jan 4 06:55:27 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101ba0ac300)
+1 1136386527 2006.01.04 an679 Jan 4 06:55:27 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101ba0ac500)
+1 1136386527 2006.01.04 an679 Jan 4 06:55:27 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101ba0ac700)
+1 1136386527 2006.01.04 an679 Jan 4 06:55:27 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101ba0ac900)
+1 1136386527 2006.01.04 an679 Jan 4 06:55:27 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101ba0acb00)
+1 1136386527 2006.01.04 an679 Jan 4 06:55:27 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101ba0acd00)
+1 1136386527 2006.01.04 an679 Jan 4 06:55:27 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd612280)
+1 1136386527 2006.01.04 an679 Jan 4 06:55:27 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd612680)
+1 1136386527 2006.01.04 an679 Jan 4 06:55:27 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd612880)
+1 1136386527 2006.01.04 an679 Jan 4 06:55:27 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd66fd80)
+1 1136386528 2006.01.04 an679 Jan 4 06:55:28 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd60aa80)
+1 1136386528 2006.01.04 an679 Jan 4 06:55:28 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd60ac80)
+1 1136386528 2006.01.04 an679 Jan 4 06:55:28 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd66f180)
+1 1136386528 2006.01.04 an679 Jan 4 06:55:28 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd66f380)
+1 1136386528 2006.01.04 an679 Jan 4 06:55:28 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd66f580)
+1 1136386528 2006.01.04 an679 Jan 4 06:55:28 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd66f780)
+1 1136386528 2006.01.04 an679 Jan 4 06:55:28 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd66f980)
+1 1136386528 2006.01.04 an679 Jan 4 06:55:28 an679/an679 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bd66fb80)
+1 1136395766 2006.01.04 an950 Jan 4 09:29:26 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bfe32180)
+1 1136395766 2006.01.04 an950 Jan 4 09:29:26 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bfe35a80)
+1 1136395767 2006.01.04 an950 Jan 4 09:29:27 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bc0b4180)
+1 1136395767 2006.01.04 an950 Jan 4 09:29:27 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bfe32780)
+1 1136395767 2006.01.04 an950 Jan 4 09:29:27 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bfe32980)
+1 1136395768 2006.01.04 an950 Jan 4 09:29:28 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bf495b00)
+1 1136395768 2006.01.04 an950 Jan 4 09:29:28 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bf495d00)
+1 1136395768 2006.01.04 an950 Jan 4 09:29:28 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bfe32d80)
+1 1136395769 2006.01.04 an950 Jan 4 09:29:29 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bf495100)
+1 1136395769 2006.01.04 an950 Jan 4 09:29:29 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bf495300)
+1 1136395769 2006.01.04 an950 Jan 4 09:29:29 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bf495700)
+1 1136395769 2006.01.04 an950 Jan 4 09:29:29 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bfe32380)
+1 1136395769 2006.01.04 an950 Jan 4 09:29:29 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bfe32580)
+1 1136395769 2006.01.04 an950 Jan 4 09:29:29 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bfe32b80)
+1 1136395769 2006.01.04 an950 Jan 4 09:29:29 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bfe35480)
+1 1136395770 2006.01.04 an950 Jan 4 09:29:30 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101becce080)
+1 1136395770 2006.01.04 an950 Jan 4 09:29:30 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101becce280)
+1 1136395770 2006.01.04 an950 Jan 4 09:29:30 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101becce480)
+1 1136395770 2006.01.04 an950 Jan 4 09:29:30 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101becce680)
+1 1136395770 2006.01.04 an950 Jan 4 09:29:30 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101becce880)
+1 1136395770 2006.01.04 an950 Jan 4 09:29:30 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101beccea80)
+1 1136395770 2006.01.04 an950 Jan 4 09:29:30 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101beccec80)
+1 1136395770 2006.01.04 an950 Jan 4 09:29:30 an950/an950 kernel: mptscsih: ioc0: attempting task abort! (sc=00000101bfe35080)
+1 1134069212 2005.12.08 tbird-admin1 Dec 8 11:13:32 local@tbird-admin1 check-disks: eadmin1: 2005/12/08 10:37:26, Fault Status assert (Drive Array,Slot/Connector Number: 1)
+1 1134069212 2005.12.08 tbird-admin1 Dec 8 11:13:32 local@tbird-admin1 check-disks: eadmin1: 2005/12/08 10:37:48, Fault Status assert (deassertion event) (Drive Array,Slot/Connector Number: 1)
+1 1134431576 2005.12.12 tbird-admin1 Dec 12 15:52:56 local@tbird-admin1 check-disks: eadmin1: 2005/12/08 10:37:26, Fault Status assert (Drive Array,Slot/Connector Number: 1)
+1 1134431836 2005.12.12 tbird-admin1 Dec 12 15:57:16 local@tbird-admin1 check-disks: eadmin1: 2005/12/08 10:37:26, Fault Status assert (Drive Array,Slot/Connector Number: 1)
+1 1134431903 2005.12.12 tbird-admin1 Dec 12 15:58:23 local@tbird-admin1 check-disks: eadmin1: 2005/12/08 10:37:26, Fault Status assert (Drive Array,Slot/Connector Number: 1)
+1 1134431976 2005.12.12 tbird-admin1 Dec 12 15:59:36 local@tbird-admin1 check-disks: eadmin1: 2005/12/08 10:37:26, Fault Status assert (Drive Array,Slot/Connector Number: 1)
+1 1134432012 2005.12.12 tbird-admin1 Dec 12 16:00:12 local@tbird-admin1 check-disks: eadmin1: 2005/12/08 10:37:26, Fault Status assert (Drive Array,Slot/Connector Number: 1)
+1 1134432128 2005.12.12 tbird-admin1 Dec 12 16:02:08 local@tbird-admin1 check-disks: eadmin1: 2005/12/08 10:37:26, Fault Status assert (Drive Array,Slot/Connector Number: 1)
+1 1134432215 2005.12.12 tbird-admin1 Dec 12 16:03:35 local@tbird-admin1 check-disks: eadmin1: 2005/12/08 10:37:26, Fault Status assert (Drive Array,Slot/Connector Number: 1)
+1 1134432370 2005.12.12 tbird-admin1 Dec 12 16:06:10 local@tbird-admin1 check-disks: eadmin1: 2005/12/08 10:37:26, Fault Status assert (Drive Array,Slot/Connector Number: 1)
+1 1134432453 2005.12.12 tbird-admin1 Dec 12 16:07:33 local@tbird-admin1 check-disks: eadmin1: 2005/12/08 10:37:26, Fault Status assert (Drive Array,Slot/Connector Number: 1)
+1 1134432459 2005.12.12 tbird-admin1 Dec 12 16:07:39 local@tbird-admin1 check-disks: eadmin1: 2005/12/08 10:37:26, Fault Status assert (Drive Array,Slot/Connector Number: 1)
+1 1134432553 2005.12.12 tbird-admin1 Dec 12 16:09:13 local@tbird-admin1 check-disks: eadmin1: 2005/12/08 10:37:26, Fault Status assert (Drive Array,Slot/Connector Number: 1)
+1 1132378222 2005.11.18 dn41 Nov 18 21:30:22 dn41/dn41 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1132378222 2005.11.18 dn41 Nov 18 21:30:22 dn41/dn41 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1132378222 2005.11.18 dn41 Nov 18 21:30:22 dn41/dn41 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1132378223 2005.11.18 dn41 Nov 18 21:30:23 dn41/dn41 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1132378223 2005.11.18 dn41 Nov 18 21:30:23 dn41/dn41 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1132378256 2005.11.18 dn41 Nov 18 21:30:56 dn41/dn41 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1132378256 2005.11.18 dn41 Nov 18 21:30:56 dn41/dn41 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1132549203 2005.11.20 dn312 Nov 20 21:00:03 dn312/dn312 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1132549203 2005.11.20 dn312 Nov 20 21:00:03 dn312/dn312 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1132549203 2005.11.20 dn312 Nov 20 21:00:03 dn312/dn312 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1132549234 2005.11.20 dn312 Nov 20 21:00:34 dn312/dn312 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1132549234 2005.11.20 dn312 Nov 20 21:00:34 dn312/dn312 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1132817623 2005.11.23 bn725 Nov 23 23:33:43 bn725/bn725 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1132817623 2005.11.23 bn725 Nov 23 23:33:43 bn725/bn725 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133536460 2005.12.02 an43 Dec 2 07:14:20 an43/an43 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133536460 2005.12.02 an43 Dec 2 07:14:20 an43/an43 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133536460 2005.12.02 an43 Dec 2 07:14:20 an43/an43 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133536460 2005.12.02 an43 Dec 2 07:14:20 an43/an43 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133536461 2005.12.02 an43 Dec 2 07:14:21 an43/an43 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133536461 2005.12.02 an43 Dec 2 07:14:21 an43/an43 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133536494 2005.12.02 an43 Dec 2 07:14:54 an43/an43 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133536494 2005.12.02 an43 Dec 2 07:14:54 an43/an43 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133547129 2005.12.02 an43 Dec 2 10:12:09 an43/an43 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133547129 2005.12.02 an43 Dec 2 10:12:09 an43/an43 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133547240 2005.12.02 an43 Dec 2 10:14:00 an43/an43 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133547413 2005.12.02 an43 Dec 2 10:16:53 an43/an43 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133547919 2005.12.02 an43 Dec 2 10:25:19 an43/an43 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133547919 2005.12.02 an43 Dec 2 10:25:19 an43/an43 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133547919 2005.12.02 an43 Dec 2 10:25:19 an43/an43 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133547919 2005.12.02 an43 Dec 2 10:25:19 an43/an43 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133547919 2005.12.02 an43 Dec 2 10:25:19 an43/an43 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133548240 2005.12.02 an43 Dec 2 10:30:40 an43/an43 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133548240 2005.12.02 an43 Dec 2 10:30:40 an43/an43 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133548240 2005.12.02 an43 Dec 2 10:30:40 an43/an43 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133548406 2005.12.02 an43 Dec 2 10:33:26 an43/an43 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133688032 2005.12.04 cn745 Dec 4 01:20:32 cn745/cn745 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133688032 2005.12.04 cn745 Dec 4 01:20:32 cn745/cn745 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133688033 2005.12.04 cn745 Dec 4 01:20:33 cn745/cn745 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133688033 2005.12.04 cn745 Dec 4 01:20:33 cn745/cn745 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133688033 2005.12.04 cn745 Dec 4 01:20:33 cn745/cn745 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133688033 2005.12.04 cn745 Dec 4 01:20:33 cn745/cn745 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133688066 2005.12.04 cn745 Dec 4 01:21:06 cn745/cn745 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133688066 2005.12.04 cn745 Dec 4 01:21:06 cn745/cn745 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133698921 2005.12.04 an43 Dec 4 04:22:01 an43/an43 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133698922 2005.12.04 cn745 Dec 4 04:22:02 cn745/cn745 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133720311 2005.12.04 cn745 Dec 4 10:18:31 cn745/cn745 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133896582 2005.12.06 an43 Dec 6 11:16:22 an43/an43 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133896645 2005.12.06 an43 Dec 6 11:17:25 an43/an43 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133896646 2005.12.06 an43 Dec 6 11:17:26 an43/an43 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133896685 2005.12.06 an43 Dec 6 11:18:05 an43/an43 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133896685 2005.12.06 an43 Dec 6 11:18:05 an43/an43 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133896685 2005.12.06 an43 Dec 6 11:18:05 an43/an43 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133896685 2005.12.06 an43 Dec 6 11:18:05 an43/an43 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133896689 2005.12.06 an43 Dec 6 11:18:09 an43/an43 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133896689 2005.12.06 an43 Dec 6 11:18:09 an43/an43 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133896689 2005.12.06 an43 Dec 6 11:18:09 an43/an43 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133976679 2005.12.07 an43 Dec 7 09:31:19 an43/an43 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133977993 2005.12.07 an43 Dec 7 09:53:13 an43/an43 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133981683 2005.12.07 an43 Dec 7 10:54:43 an43/an43 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1133982509 2005.12.07 an43 Dec 7 11:08:29 an43/an43 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134065262 2005.12.08 an43 Dec 8 10:07:42 an43/an43 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134145819 2005.12.09 an43 Dec 9 08:30:19 an43/an43 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134416910 2005.12.12 cn745 Dec 12 11:48:30 cn745/cn745 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134416910 2005.12.12 cn745 Dec 12 11:48:30 cn745/cn745 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134416910 2005.12.12 cn745 Dec 12 11:48:30 cn745/cn745 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134416941 2005.12.12 cn745 Dec 12 11:49:01 cn745/cn745 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134416946 2005.12.12 cn745 Dec 12 11:49:06 cn745/cn745 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134417464 2005.12.12 cn745 Dec 12 11:57:44 cn745/cn745 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134417496 2005.12.12 cn745 Dec 12 11:58:16 cn745/cn745 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134417496 2005.12.12 cn745 Dec 12 11:58:16 cn745/cn745 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134417496 2005.12.12 cn745 Dec 12 11:58:16 cn745/cn745 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134417501 2005.12.12 cn745 Dec 12 11:58:21 cn745/cn745 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134417501 2005.12.12 cn745 Dec 12 11:58:21 cn745/cn745 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134417501 2005.12.12 cn745 Dec 12 11:58:21 cn745/cn745 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134417501 2005.12.12 cn745 Dec 12 11:58:21 cn745/cn745 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134417501 2005.12.12 cn745 Dec 12 11:58:21 cn745/cn745 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134417501 2005.12.12 cn745 Dec 12 11:58:21 cn745/cn745 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134417501 2005.12.12 cn745 Dec 12 11:58:21 cn745/cn745 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134429548 2005.12.12 cn745 Dec 12 15:19:08 cn745/cn745 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134459734 2005.12.12 cn638 Dec 12 23:42:14 cn638/cn638 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134459734 2005.12.12 cn638 Dec 12 23:42:14 cn638/cn638 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134459734 2005.12.12 cn638 Dec 12 23:42:14 cn638/cn638 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134459734 2005.12.12 cn638 Dec 12 23:42:14 cn638/cn638 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134459734 2005.12.12 cn638 Dec 12 23:42:14 cn638/cn638 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134459734 2005.12.12 cn638 Dec 12 23:42:14 cn638/cn638 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134459734 2005.12.12 cn638 Dec 12 23:42:14 cn638/cn638 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134459734 2005.12.12 cn638 Dec 12 23:42:14 cn638/cn638 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134459767 2005.12.12 cn638 Dec 12 23:42:47 cn638/cn638 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134459767 2005.12.12 cn638 Dec 12 23:42:47 cn638/cn638 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134460234 2005.12.12 cn638 Dec 12 23:50:34 cn638/cn638 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134460234 2005.12.12 cn638 Dec 12 23:50:34 cn638/cn638 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134460267 2005.12.12 cn638 Dec 12 23:51:07 cn638/cn638 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134460267 2005.12.12 cn638 Dec 12 23:51:07 cn638/cn638 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134460272 2005.12.12 cn638 Dec 12 23:51:12 cn638/cn638 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134460272 2005.12.12 cn638 Dec 12 23:51:12 cn638/cn638 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134460272 2005.12.12 cn638 Dec 12 23:51:12 cn638/cn638 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134460272 2005.12.12 cn638 Dec 12 23:51:12 cn638/cn638 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134460272 2005.12.12 cn638 Dec 12 23:51:12 cn638/cn638 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134460272 2005.12.12 cn638 Dec 12 23:51:12 cn638/cn638 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134460273 2005.12.12 cn638 Dec 12 23:51:13 cn638/cn638 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134475248 2005.12.13 cn745 Dec 13 04:00:48 cn745/cn745 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134494634 2005.12.13 cn638 Dec 13 09:23:54 cn638/cn638 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134494703 2005.12.13 cn745 Dec 13 09:25:03 cn745/cn745 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134573247 2005.12.14 cn745 Dec 14 07:14:07 cn745/cn745 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134583551 2005.12.14 cn638 Dec 14 10:05:51 cn638/cn638 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134680097 2005.12.15 an814 Dec 15 12:54:57 an814/an814 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134680097 2005.12.15 an814 Dec 15 12:54:57 an814/an814 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134680097 2005.12.15 an814 Dec 15 12:54:57 an814/an814 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134680097 2005.12.15 an814 Dec 15 12:54:57 an814/an814 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134680097 2005.12.15 an814 Dec 15 12:54:57 an814/an814 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134680097 2005.12.15 an814 Dec 15 12:54:57 an814/an814 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134680130 2005.12.15 an814 Dec 15 12:55:30 an814/an814 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134680130 2005.12.15 an814 Dec 15 12:55:30 an814/an814 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134734521 2005.12.16 an814 Dec 16 04:02:01 an814/an814 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134734521 2005.12.16 an814 Dec 16 04:02:01 an814/an814 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134734522 2005.12.16 an814 Dec 16 04:02:02 an814/an814 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134750947 2005.12.16 en197 Dec 16 08:35:47 en197/en197 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134750947 2005.12.16 en197 Dec 16 08:35:47 en197/en197 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134750981 2005.12.16 en197 Dec 16 08:36:21 en197/en197 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134750981 2005.12.16 en197 Dec 16 08:36:21 en197/en197 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134750981 2005.12.16 en197 Dec 16 08:36:21 en197/en197 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134750981 2005.12.16 en197 Dec 16 08:36:21 en197/en197 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134750986 2005.12.16 en197 Dec 16 08:36:26 en197/en197 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134750986 2005.12.16 en197 Dec 16 08:36:26 en197/en197 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134757631 2005.12.16 en197 Dec 16 10:27:11 en197/en197 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134759688 2005.12.16 en197 Dec 16 11:01:28 en197/en197 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134762246 2005.12.16 en197 Dec 16 11:44:06 en197/en197 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134763291 2005.12.16 en197 Dec 16 12:01:31 en197/en197 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134806493 2005.12.17 bn101 Dec 17 00:01:33 bn101/bn101 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1134806493 2005.12.17 bn101 Dec 17 00:01:33 bn101/bn101 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135015616 2005.12.19 en197 Dec 19 10:06:56 en197/en197 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135018056 2005.12.19 en197 Dec 19 10:47:36 en197/en197 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135027184 2005.12.19 en197 Dec 19 13:19:44 en197/en197 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135101331 2005.12.20 en197 Dec 20 09:55:31 en197/en197 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135120784 2005.12.20 en197 Dec 20 15:19:44 en197/en197 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135121022 2005.12.20 en197 Dec 20 15:23:42 en197/en197 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135121593 2005.12.20 en197 Dec 20 15:33:13 en197/en197 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135314380 2005.12.22 en197 Dec 22 21:06:20 en197/en197 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135314380 2005.12.22 en197 Dec 22 21:06:20 en197/en197 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135314380 2005.12.22 en197 Dec 22 21:06:20 en197/en197 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135314380 2005.12.22 en197 Dec 22 21:06:20 en197/en197 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135481507 2005.12.24 an289 Dec 24 19:31:47 an289/an289 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135481507 2005.12.24 an289 Dec 24 19:31:47 an289/an289 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135481507 2005.12.24 an289 Dec 24 19:31:47 an289/an289 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135481540 2005.12.24 an289 Dec 24 19:32:20 an289/an289 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135481540 2005.12.24 an289 Dec 24 19:32:20 an289/an289 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135512126 2005.12.25 an289 Dec 25 04:02:06 an289/an289 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135512160 2005.12.25 an289 Dec 25 04:02:40 an289/an289 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135512160 2005.12.25 an289 Dec 25 04:02:40 an289/an289 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135512165 2005.12.25 an289 Dec 25 04:02:45 an289/an289 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135512165 2005.12.25 an289 Dec 25 04:02:45 an289/an289 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135512206 2005.12.25 an289 Dec 25 04:03:26 an289/an289 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135647882 2005.12.26 an186 Dec 26 17:44:42 an186/an186 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135647882 2005.12.26 an186 Dec 26 17:44:42 an186/an186 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135648751 2005.12.26 an186 Dec 26 17:59:11 an186/an186 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135648752 2005.12.26 an186 Dec 26 17:59:12 an186/an186 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135648783 2005.12.26 an186 Dec 26 17:59:43 an186/an186 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135648783 2005.12.26 an186 Dec 26 17:59:43 an186/an186 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135648783 2005.12.26 an186 Dec 26 17:59:43 an186/an186 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135648783 2005.12.26 an186 Dec 26 17:59:43 an186/an186 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135648783 2005.12.26 an186 Dec 26 17:59:43 an186/an186 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135648783 2005.12.26 an186 Dec 26 17:59:43 an186/an186 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135648783 2005.12.26 an186 Dec 26 17:59:43 an186/an186 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135648784 2005.12.26 an186 Dec 26 17:59:44 an186/an186 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135649473 2005.12.26 an186 Dec 26 18:11:13 an186/an186 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135649508 2005.12.26 an186 Dec 26 18:11:48 an186/an186 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135649513 2005.12.26 an186 Dec 26 18:11:53 an186/an186 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135649513 2005.12.26 an186 Dec 26 18:11:53 an186/an186 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135649513 2005.12.26 an186 Dec 26 18:11:53 an186/an186 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135684931 2005.12.27 an186 Dec 27 04:02:11 an186/an186 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135771333 2005.12.28 an186 Dec 28 04:02:13 an186/an186 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135857734 2005.12.29 an186 Dec 29 04:02:14 an186/an186 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135944122 2005.12.30 an289 Dec 30 04:02:02 an289/an289 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1135944136 2005.12.30 an186 Dec 30 04:02:16 an186/an186 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1136030538 2005.12.31 an186 Dec 31 04:02:18 an186/an186 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1136116940 2006.01.01 an186 Jan 1 04:02:20 an186/an186 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1136118140 2006.01.01 an186 Jan 1 04:22:20 an186/an186 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1136119340 2006.01.01 an186 Jan 1 04:42:20 an186/an186 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1136376685 2006.01.04 an925 Jan 4 04:11:25 an925/an925 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1136376685 2006.01.04 an925 Jan 4 04:11:25 an925/an925 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1136376685 2006.01.04 an925 Jan 4 04:11:25 an925/an925 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1136376685 2006.01.04 an925 Jan 4 04:11:25 an925/an925 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1136376685 2006.01.04 an925 Jan 4 04:11:25 an925/an925 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1136376685 2006.01.04 an925 Jan 4 04:11:25 an925/an925 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1136376685 2006.01.04 an925 Jan 4 04:11:25 an925/an925 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1136376685 2006.01.04 an925 Jan 4 04:11:25 an925/an925 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1136376716 2006.01.04 an925 Jan 4 04:11:56 an925/an925 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1136376716 2006.01.04 an925 Jan 4 04:11:56 an925/an925 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1136376716 2006.01.04 an925 Jan 4 04:11:56 an925/an925 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1136376716 2006.01.04 an925 Jan 4 04:11:56 an925/an925 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1136376716 2006.01.04 an925 Jan 4 04:11:56 an925/an925 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1136376716 2006.01.04 an925 Jan 4 04:11:56 an925/an925 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1136376716 2006.01.04 an925 Jan 4 04:11:56 an925/an925 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1136377920 2006.01.04 an925 Jan 4 04:32:00 an925/an925 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1136377920 2006.01.04 an925 Jan 4 04:32:00 an925/an925 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1136377925 2006.01.04 an925 Jan 4 04:32:05 an925/an925 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1136377955 2006.01.04 an925 Jan 4 04:32:35 an925/an925 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1136377960 2006.01.04 an925 Jan 4 04:32:40 an925/an925 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1136377960 2006.01.04 an925 Jan 4 04:32:40 an925/an925 kernel: scsi0 (0:0): rejecting I/O to offline device
+1 1136385911 2006.01.04 an925 Jan 4 06:45:11 an925/an925 kernel: scsi0 (0:0): rejecting I/O to offline device
