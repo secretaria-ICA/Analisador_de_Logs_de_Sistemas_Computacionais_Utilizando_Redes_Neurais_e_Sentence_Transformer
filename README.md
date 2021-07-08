@@ -25,8 +25,11 @@ registros, que podem chegar em dezenas a cada segundo.
    O objetivo deste trabalho é gerar uma ferramenta que seja capaz de analisar estes registros em um tempo bastante curto e somente recomendar a inspeção
 humana imediata caso julgue relevante.
 
-  A partir de um arquivo de registros que foi manualmente rotulado [1] , o programa usa uma rede neural treinada para inferir se determinado registro que
- ocorrer no sistema merecerá ter a atenção dos administradores.
+  A partir de um arquivo de registros para o cluster Thunderbird que foi manualmente rotulado [1] , o programa usa uma rede neural treinada para inferir se determinado registro que ocorrer no sistema merecerá ter a atenção dos administradores.
+   Foram escolhidos 1000 registros sem anomalias e 1022 com anomalias, que, combinados, geraram o arquivo Thunderbird_1000.log. Este foi usado para treinamento
+e teste da rede neural.
+ 
+ 
  
  
  [1] Loghub (https://github.com/logpai/loghub)
