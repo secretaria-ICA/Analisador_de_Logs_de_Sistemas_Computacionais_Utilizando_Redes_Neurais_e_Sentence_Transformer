@@ -22,9 +22,9 @@ parte dos administradores do sistema, mesmo que o registro seja para informar al
 vez, isto não deve ser motivo de intervenção. Por estes e outros motivos, é impraticável ter um ser humano com a incumbência de ficar analisando estes 
 registros, que podem chegar em dezenas a cada segundo.
 
-   O objetivo deste trabalho é gerar uma ferramenta que seja capaz de analisar estes registros em um tempo bastante curto e somente recomendar a inspeção
-humana imediata caso julgue relevante. É composta por duas partes: a primeira pega um arquivo de logs rotulado e gera a rede neural treinada; a segunda usa 
-a rede treinada para analisar os logs.
+   O objetivo deste trabalho é gerar uma ferramenta para um sistema Linux ou semelhante que seja capaz de analisar estes registros em um tempo bastante 
+curto e somente recomendar a inspeção humana imediata caso julgue relevante. É composta por duas partes: a primeira pega um arquivo de logs rotulado e 
+gera a rede neural treinada; a segunda usa a rede treinada para analisar os logs.
 
   A partir de um arquivo de registros para o cluster Thunderbird que foi manualmente rotulado [1] , o programa usa uma rede neural treinada para inferir se determinado registro que ocorrer no sistema merecerá ter a atenção dos administradores.
   
@@ -35,9 +35,9 @@ e teste da rede neural.
    Usando a rede treinada, um programa analisador varre o arquivo de logs e gera uma saída de acordo com a inferência da classificação da linha do arquivo
    de logs. Se for relevante, o programa pode enviar a linha e um alerta, por exemplo, através de email para o administrador do sistema.
    
-   São sugeridas duas formas de usar o programa:
+   São sugeridas duas formas de usar o programa, todas a partir da linha de comando do sistema Linux a ser analisado ou monitorado.
    
-   Análise em tempo real:
+   Análise em tempo real (monitoramento):
       
    A chamada no formato
          
@@ -45,7 +45,7 @@ e teste da rede neural.
    lê continuamente o arquivo de logs e pode gerar um alerta caso detecte uma classe de erro, anexado dos dados da mensagem e informando os administradores do sistema.
       Esta opção só é possível se o servidor a ser analisado tiver velocidade suficiente para processar as linhas de logs em tempo real.
       
-   Análise do passado:
+   Análise do passado (anãlise):
    
    A chamada no formato
       
