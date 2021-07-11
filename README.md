@@ -31,8 +31,28 @@ a rede treinada para analisar os logs.
    Foram escolhidos 1000 registros sem anomalias e 1022 com anomalias, que, combinados, geraram o arquivo Thunderbird_1000.log. Este foi usado para treinamento
 e teste da rede neural.
 
+### Aplicabilidade
    Usando a rede treinada, um programa analisador varre o arquivo de logs e gera uma saída de acordo com a inferência da classificação da linha do arquivo
-   de logs. Se for relevante, o programa pode enviar a linha e um alerta através de email para o administrador do sistema.
+   de logs. Se for relevante, o programa pode enviar a linha e um alerta, por exemplo, através de email para o administrador do sistema.
+   
+   São sugeridas duas formas de usar o programa:
+   
+   Análise em tempo real:
+      
+   A chamada no formato
+         
+         tail -n1 -f /var/log/arquivo.log | cut -d' ' -f6- | python analisador.py
+   lê continuamente o arquivo de logs e pode gerar um alerta caso detecte uma classe de erro, anexado dos dados da mensagem e informando os administradores do sistema.
+      Esta opção só é possível se o servidor a ser analisado tiver velocidade suficiente para processar as linhas de logs em tempo real.
+      
+   Análise do passado:
+   
+   A chamada no formato
+      
+      
+         tail -1000 /var/log/arquivo.log | cut -d' ' -f6- | python analisador.py
+   lê as últimas 1000 linhas do arquivo de log e pode gerar o mesmo tipo de alerta, só que sob demanda do administrador do sistema,
+        
  
  
  
