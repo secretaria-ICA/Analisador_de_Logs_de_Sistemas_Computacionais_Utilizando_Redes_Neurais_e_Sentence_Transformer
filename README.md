@@ -37,24 +37,22 @@ e teste da rede neural.
    
    São sugeridas duas formas de usar o programa, todas a partir da linha de comando do sistema Linux a ser analisado ou monitorado.
    
-   Análise em tempo real (monitoramento):
+* Análise em tempo real (monitoramento):
       
    A chamada no formato
          
          tail -n1 -f /var/log/arquivo.log | cut -d' ' -f6- | python analisador.py
-   lê continuamente o arquivo de logs e pode gerar um alerta caso detecte uma classe de erro, anexado dos dados da mensagem e informando os administradores do sistema.
-      Esta opção só é possível se o servidor a ser analisado tiver velocidade suficiente para processar as linhas de logs em tempo real.
+   lê continuamente o arquivo de logs e pode gerar um alerta caso detecte uma classe de erro, anexado dos dados da mensagem e informando os administradores do sistema. Esta opção só é possível se o servidor a ser analisado tiver velocidade suficiente para processar as linhas de logs em tempo real.
       
-   Análise do passado (anãlise):
-   
+* Análise do passado:
+
    A chamada no formato
-      
-      
+         
          tail -1000 /var/log/arquivo.log | cut -d' ' -f6- | python analisador.py
-   lê as últimas 1000 linhas do arquivo de log e pode gerar o mesmo tipo de alerta, só que sob demanda do administrador do sistema,
-        
- 
- 
+   lê as últimas 1000 linhas do arquivo de log e pode gerar o mesmo tipo de alerta, só que sob demanda do administrador do sistema, podendo ser usada em sistemas com menor capacidade de processamento.
+
+Obs.: O filtro *cut -d' ' -f6-* seleciona apenas o texto da mensagem em si para enviar à rede neural, eliminando os cabeçalhos (data, hora, etc.)
+     
  
  
  [1] Loghub (https://github.com/logpai/loghub)
