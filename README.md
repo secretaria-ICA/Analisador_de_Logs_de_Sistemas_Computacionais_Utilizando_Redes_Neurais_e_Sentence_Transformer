@@ -1,15 +1,13 @@
 <!-- antes de enviar a versão final, solicitamos que todos os comentários, colocados para orientação ao aluno, sejam removidos do arquivo -->
 
-# Analisador de logs de sistemas computacionais utilizando redes neurais e Sentence Transformer
+# Analisador de Logs de Sistemas Computacionais Utilizando Redes Neurais e Sentence Transformer
 
 #### Alun(o/a): [Luís Fernando V Gomes](https://github.com/lfvgomes).
 #### Orientadores:[Felipe Borges](https://github.com/FelipeBorgesC)  e [Manoela Kohler](https://github.com/manoelakohler).
-<!-- #### Co-orientador(/a/es/as): [Felipe Borges] (https://github.com/link_do_github). <! -- caso não aplicável, remover esta linha -->
 
 ---
 
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
-
 
 ---
 
